@@ -80,6 +80,8 @@ http://103.205.133.50/hls/zeebangla.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
 http://103.205.133.50/hls/sony8.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Tollywood
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/203?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
@@ -230,13 +232,17 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/212?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sky Sports
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/194?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/185?@asfaiptv
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/150?@asfaiptv
+https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1 HD
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 2
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/196?@asfaiptv
+https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/197?@asfaiptv
+https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3 HD
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bein Sports 11
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/199?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bein Sports Extra
