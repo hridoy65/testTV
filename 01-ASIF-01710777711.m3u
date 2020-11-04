@@ -28,7 +28,7 @@ http://103.205.133.50/hls/nagorik.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IgJfpax.jpg" group-title="BANGLA", ATN NEWS
 http://103.205.133.50/hls/atnnews.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TwQYc5y.jpg" group-title="BANGLA", Bangla Vision
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/94?@asfaiptv
+http://103.205.133.50/hls/banglavision.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IWO3zgc.jpg" group-title="BANGLA", BOISHAKHI TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/219?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZdDQiPy.jpg" group-title="BANGLA", CHANNEL I HD
@@ -40,9 +40,9 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SBMVwsz.jpg" group-title="BANGLA", EKUSHEY TV
 http://103.205.133.50/hls/ekushey.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LbxAqDT.jpg" group-title="BANGLA", MY TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/647?@asfaiptv
+http://103.205.133.50/hls/mytv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8bBdxMH.png" group-title="BANGLA", Asian TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/91?@asfaiptv
+http://103.205.133.50/hls/asiantv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qt6xvVr.jpg" group-title="BANGLA", Ananda TV
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/770?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qt6xvVr.jpg" group-title="BANGLA", Channel 24
@@ -62,7 +62,7 @@ http://103.205.133.50/hls/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m0FBHWZ.jpg" group-title="BANGLA", BANGLA TV HD
 http://103.205.133.50/hls/banglatv.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HZTP4V4.jpg" group-title="BANGLA", BIJOY TV
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/771?@asfaiptv
+http://103.205.133.50/hls/bijoytv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WdctZUW.jpg" group-title="BANGLA", Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Channel T1
@@ -83,7 +83,7 @@ http://103.205.133.50/hls/sony8.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/203?@asfaiptv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Bangla
@@ -157,7 +157,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", ZEE SMILE
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/802?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Colors Rishtey
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/207?@asfaiptv
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Abzy Movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Star Select
@@ -250,8 +250,6 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", ASTRO CRICKET
 http://amr4k.us:8080/live/514/514/40502.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/200?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2 SD
 http://103.205.133.50/hls/chss2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports Select 1
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/212?@asfaiptv
@@ -312,8 +310,6 @@ http://51.158.190.97/hls/stream.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Cinemax
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Acson
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/831?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MNX
