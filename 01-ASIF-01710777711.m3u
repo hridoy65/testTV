@@ -213,6 +213,8 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?@asfaiptv
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Animal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
@@ -623,3 +625,102 @@ https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m
 https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX", Mirchi Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", jamuna tv
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", gazi
+http://tv2.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", bangla vision
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", chanel i
+http://tv2.ebox.live:8080/live/chi.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", dbc
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", atn news
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", mas 1
+http://tv2.ebox.live:8080/live/mass.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", maasranga
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", chanel 9
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony six
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony espn
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony ten 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony ten 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony ten 3
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", ten sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", willow cricket
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", ptv sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sky cricket
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sky mix
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", bein sports 1
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", bean sports 2
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", bein sports 11
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", bein sports fr 1
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star sports 1 hindi
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star sports hd 2
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star sports 3
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star sports select 1
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star sports select 2
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", zee bangla
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star jslsha
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", colour bangla
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", zee bangla cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star jalsha movies
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star plas
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", zee tv
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", colours
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star gold
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", zee cinema
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony max
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony max 2
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", star movies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", hbo
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", sony pix
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", colour infinity
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", discovery
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", animal planet
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="FTP-Tv.ebox.live", nat geo
+http://tv2.ebox.live:8080/live/natg.m3u8
+
+
