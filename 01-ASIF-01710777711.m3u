@@ -407,18 +407,12 @@ http://51.68.119.176:30003/123/lavanatv/16
 http://51.68.119.176:30003/123/lavanatv/17
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Bein Sports 15
 http://51.68.119.176:30003/123/lavanatv/18
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",158.Bein Sports 16
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Bein Sports 16
 http://51.68.119.176:30003/123/lavanatv/19
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bein Sports 1
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bein Sports 2
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/641?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", D Sport 3 HD
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/787?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Arena Sport 2 HD
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/641?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Real Madrid TV SD
@@ -441,8 +435,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", YUPP TV
 http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Champions 11
-http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/640?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Redbull TV
