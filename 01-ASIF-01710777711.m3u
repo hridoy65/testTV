@@ -116,7 +116,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checke
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xlAHAck.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
 http://103.205.133.50/hls/gaanbangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JyOAahO.png" group-title="BANGLA MUSIC", Sangeet Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA MUSIC", Magic Bangla IPTV
 http://enaniptv.com/magicbanglatv/1080/index.m3u8?@asfaiptv
 
