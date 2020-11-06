@@ -361,6 +361,12 @@ http://tv2iptv.com:8080/ammar/ammar/120633
 http://tv2iptv.com:8080/ammar/ammar/120634
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 13
 http://tv2iptv.com:8080/ammar/ammar/120635
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 14
+http://tv2iptv.com:8080/ammar/ammar/120599
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 15
+http://tv2iptv.com:8080/ammar/ammar/120600
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 16
+http://tv2iptv.com:8080/ammar/ammar/120601
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
