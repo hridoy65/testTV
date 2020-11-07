@@ -337,36 +337,32 @@ http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 3
-http://tv2iptv.com:8080/ammar/ammar/120625
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 4
-http://tv2iptv.com:8080/ammar/ammar/120626
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 5
-http://tv2iptv.com:8080/ammar/ammar/120627
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 6
-http://tv2iptv.com:8080/ammar/ammar/120628
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 7
-http://tv2iptv.com:8080/ammar/ammar/120629
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 8
-http://tv2iptv.com:8080/ammar/ammar/120630
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 9
-http://tv2iptv.com:8080/ammar/ammar/120631
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 9
-http://51.68.119.176:30003/123/lavanatv/7684
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 10
-http://tv2iptv.com:8080/ammar/ammar/120632
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 11
-http://tv2iptv.com:8080/ammar/ammar/120633
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 12
-http://tv2iptv.com:8080/ammar/ammar/120634
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 13
-http://tv2iptv.com:8080/ammar/ammar/120635
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 14
-http://tv2iptv.com:8080/ammar/ammar/120599
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 15
-http://tv2iptv.com:8080/ammar/ammar/120600
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS",Bein Sports 16
-http://tv2iptv.com:8080/ammar/ammar/120601
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport1
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6123/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport2
+http://116.203.155.242/hls/bein2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport3
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6124/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport4
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6125/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport5
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6126/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport6
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6127/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport7
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport8
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6129/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport9
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6130/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport10
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6131/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport11
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport12
+http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6133/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
