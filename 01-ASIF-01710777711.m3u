@@ -305,14 +305,10 @@ http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
 http://dx4.gcdn.co/UK1302/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 HD
 https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 Hindi-1
-https://tivimateplaylists.live/starsportshindin
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 Hindi-2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 Hindi
 https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
-http://103.205.133.50/hls/chss2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sport DH
@@ -350,8 +346,7 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS", Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS", MEX Sport
-http://188.35.9.26:7031/udp/113i
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",PremierHD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",PremierHD2
@@ -411,10 +406,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Combat Go
 http://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?@asfaiptv
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3221
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport2
-http://116.203.155.242/hls/bein2.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport3
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6124/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport4
@@ -436,14 +427,10 @@ http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport12
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6133/index.m3u8?@asfaiptv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET
-http://185.232.53.5:2086/arellano/kgtL965n2Y/51106?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET FHD
 http://exodus1.eu:8080/blue123/blue123/501175?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET SD
 http://exodus1.eu:8080/blue123/blue123/501173?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67056?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1 FHD
 http://exodus1.eu:8080/blue123/blue123/501180?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1 SD
@@ -518,8 +505,6 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS",AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", TUDN MX
-http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", Bin1
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", Bin2
@@ -528,9 +513,6 @@ https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", Cham2
 https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
-
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Sony Movies
 http://51.52.156.22:8888/http/009
