@@ -441,6 +441,52 @@ http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport12
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6133/index.m3u8?@asfaiptv
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET
+http://185.232.53.5:2086/arellano/kgtL965n2Y/51106?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET FHD
+http://exodus1.eu:8080/blue123/blue123/501175?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS CRICKET SD
+http://exodus1.eu:8080/blue123/blue123/501173?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1
+http://185.232.53.5:2086/arellano/kgtL965n2Y/67056?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1 FHD
+http://exodus1.eu:8080/blue123/blue123/501180?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS F1 SD
+http://exodus1.eu:8080/blue123/blue123/501178?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS FOOTBALL FHD
+http://exodus1.eu:8080/blue123/blue123/501185?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS FOOTBALL SD
+http://exodus1.eu:8080/blue123/blue123/501183?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS GOLF FHD
+http://exodus1.eu:8080/blue123/blue123/501190?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS GOLF SD
+http://exodus1.eu:8080/blue123/blue123/501188?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS MAIN EVENT FHD
+http://exodus1.eu:8080/blue123/blue123/501195?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS MAIN EVENT SD
+http://exodus1.eu:8080/blue123/blue123/501193?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS MIX FHD
+http://exodus1.eu:8080/blue123/blue123/501200?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS MIX SD
+http://exodus1.eu:8080/blue123/blue123/501198?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS NEWS FHD
+http://exodus1.eu:8080/blue123/blue123/501210?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS NEWS SD
+http://exodus1.eu:8080/blue123/blue123/501208?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS NFL FHD
+http://exodus1.eu:8080/blue123/blue123/501205?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS NFL SD
+http://exodus1.eu:8080/blue123/blue123/501203?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE FHD
+http://exodus1.eu:8080/blue123/blue123/501215?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE SD
+http://exodus1.eu:8080/blue123/blue123/501213?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS RACING FHD
+http://exodus1.eu:8080/blue123/blue123/501220?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMY0kLQ.jpg" group-title="SPORTS",SKY SPORTS RACING SD
+http://exodus1.eu:8080/blue123/blue123/501218?checkedby:hlscat.com
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", AXN
