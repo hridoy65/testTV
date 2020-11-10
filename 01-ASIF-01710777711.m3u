@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", BTV
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_btv_worldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", BTV WORLD
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
 http://103.132.180.245:8080/2/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
@@ -19,6 +21,8 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jamuna_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Masranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Masranga
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6jgTdDF.jpg" group-title="BANGLA", SA TV HD
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sa_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/o02EJvK.png" group-title="BANGLA", SOMOY TV
@@ -69,6 +73,8 @@ https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Doyal TV
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Jhankar TV
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Notun Somoy
@@ -126,6 +132,8 @@ http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?@asfaiptv
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_zee_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD
 https://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD USA
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Hindi
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fnmQ4qf.png" group-title="HINDI ENTERTAIN", And TV
@@ -183,6 +191,8 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?@asfaiptv
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", MAHA MOVIE
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Sony Wah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
@@ -547,6 +557,24 @@ http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", & Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8?@asfaiptv
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 1 Premiere
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 4 Family
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AG7DDuJ.png" group-title="ENGLISH MUSIC", Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AG7DDuJ.png" group-title="ENGLISH MUSIC", MOOZ Dance
@@ -617,6 +645,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Peace TV
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Shubhsandesh
