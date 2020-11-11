@@ -348,6 +348,12 @@ https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
 https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
+https://ahmadabdullahrifat.shortcm.li/starsports2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 1
+https://ahmadabdullahrifat.shortcm.li/starsportsselect1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 2
+https://ahmadabdullahrifat.shortcm.li/starsportsselect2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sport DH
