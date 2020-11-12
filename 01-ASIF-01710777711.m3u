@@ -1,126 +1,114 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8bBdxMH.png" group-title="BANGLA", Asian TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IgJfpax.jpg" group-title="BANGLA", ATN NEWS
+http://master.beeiptv.com:8081/MB/atnnews/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GddTnbJ.jpg" group-title="BANGLA", ATN BANGLA
+http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TwQYc5y.jpg" group-title="BANGLA", Bangla Vision
+http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWO3zgc.jpg" group-title="BANGLA", BOISHAKHI TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7J3Ekbw.jpg" group-title="BANGLA", BTV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wj9bPaJ.jpg" group-title="BANGLA", BTV WORLD
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZdDQiPy.jpg" group-title="BANGLA", CHANNEL I HD
+http://master.beeiptv.com:8081/MB/channeli/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YD78jgN.jpg" group-title="BANGLA", CHANNEL 9 HD
+http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yyUGb9H.jpg" group-title="BANGLA", DBC NEWS HD
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yyUGb9H.jpg" group-title="BANGLA", DBC NEWS
-http://master.beeiptv.com:8081/MB/dbcnews/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ozkrnPc.jpg" group-title="BANGLA", EKATTOR TV HD
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?token=soheliptv01826655778
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kYFl5iC.jpg" group-title="BANGLA", DEEPTO TV
+http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", Desh TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", DURONTO TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SBMVwsz.jpg" group-title="BANGLA", EKUSHEY TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ozkrnPc.jpg" group-title="BANGLA", EKATTOR TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v1j8HUi.jpg" group-title="BANGLA", NEWS 24 HD
-http://master.beeiptv.com:8081/MB/news24/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
+http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EGdDfSB.png" group-title="BANGLA", INDEPENDENT TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RcK9sEy.png" group-title="BANGLA", JAMUNA TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LbxAqDT.jpg" group-title="BANGLA", MY TV
+http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", MOHONA TV
+http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/phOdWLt.jpg" group-title="BANGLA", Masranga
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v1j8HUi.jpg" group-title="BANGLA", NEWS 24 HD
+http://master.beeiptv.com:8081/MB/news24/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", Nagorik TV
+http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/waxS18O.png" group-title="BANGLA", NTV
+http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YmuYD4S.jpg" group-title="BANGLA", RTV
+http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6jgTdDF.jpg" group-title="BANGLA", SA TV HD
+http://163.172.29.246:8081/globalbd/satv/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/o02EJvK.png" group-title="BANGLA", SOMOY TV
+http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVXagsf.jpg" group-title="BANGLA", Sangsad
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t5nUhmY.jpg" group-title="BANGLA", Ananda TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HZTP4V4.jpg" group-title="BANGLA", BIJOY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m0FBHWZ.jpg" group-title="BANGLA", Bangla TV
+http://master.beeiptv.com:8081/MB/banglatv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", BD Live
+https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Deshi TV
+http://72.139.72.18:1935/live/myStream/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Doyal TV
+http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Jhankar TV
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA", KTV
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Notun Somoy
+http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Probasi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", TBN 24
+http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8?@asfaiptv
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8bBdxMH.png" group-title="BANGLA", Asian TV
+http://master.beeiptv.com:8081/MB/asian/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWO3zgc.jpg" group-title="BANGLA", BOISHAKHI TV
+http://master.beeiptv.com:8081/MB/boishakhi/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wj9bPaJ.jpg" group-title="BANGLA", BTV WORLD
+http://master.beeiptv.com:8081/MB/btv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qt6xvVr.jpg" group-title="BANGLA", Channel 24
+http://master.beeiptv.com:8081/MB/channel24/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yyUGb9H.jpg" group-title="BANGLA", DBC NEWS
+http://master.beeiptv.com:8081/MB/dbcnews/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", DURONTO TV
+http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
+http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RcK9sEy.png" group-title="BANGLA", JAMUNA TV
 http://master.beeiptv.com:8081/MB/jamunatv/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/phOdWLt.jpg" group-title="BANGLA", Masranga
 http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/phOdWLt.jpg" group-title="BANGLA", Masranga
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/phOdWLt.jpg" group-title="BANGLA", Masranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/phOdWLt.jpg" group-title="BANGLA", Masranga
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6jgTdDF.jpg" group-title="BANGLA", SA TV HD
-http://163.172.29.246:8081/globalbd/satv/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6jgTdDF.jpg" group-title="BANGLA", SA TV 
-http://master.beeiptv.com:8081/MB/satv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/o02EJvK.png" group-title="BANGLA", SOMOY TV
-http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YD78jgN.jpg" group-title="BANGLA", CHANNEL 9 HD
-http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", Nagorik TV
-http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IgJfpax.jpg" group-title="BANGLA", ATN NEWS
-http://master.beeiptv.com:8081/MB/atnnews/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TwQYc5y.jpg" group-title="BANGLA", Bangla Vision
-http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IWO3zgc.jpg" group-title="BANGLA", BOISHAKHI TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IWO3zgc.jpg" group-title="BANGLA", BOISHAKHI TV
-http://master.beeiptv.com:8081/MB/boishakhi/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZdDQiPy.jpg" group-title="BANGLA", CHANNEL I HD
-http://master.beeiptv.com:8081/MB/channeli/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kYFl5iC.jpg" group-title="BANGLA", DEEPTO TV
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", Desh TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SBMVwsz.jpg" group-title="BANGLA", EKUSHEY TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SBMVwsz.jpg" group-title="BANGLA", EKUSHEY TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8bBdxMH.png" group-title="BANGLA", Asian TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8bBdxMH.png" group-title="BANGLA", Asian TV
-http://master.beeiptv.com:8081/MB/asian/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qt6xvVr.jpg" group-title="BANGLA", Channel 24
-http://master.beeiptv.com:8081/MB/channel24/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", MOHONA TV
-http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GddTnbJ.jpg" group-title="BANGLA", ATN BANGLA
-http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/waxS18O.png" group-title="BANGLA", NTV
-http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LbxAqDT.jpg" group-title="BANGLA", MY TV
-http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8?@asfaiptv
+http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YmuYD4S.jpg" group-title="BANGLA", RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YmuYD4S.jpg" group-title="BANGLA", RTV
-http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", DURONTO TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6X5rKnl.jpg" group-title="BANGLA", DURONTO TV
-http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SVXagsf.jpg" group-title="BANGLA", Sangsad
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7J3Ekbw.jpg" group-title="BANGLA", BTV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wj9bPaJ.jpg" group-title="BANGLA", BTV WORLD
-http://master.beeiptv.com:8081/MB/btv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wj9bPaJ.jpg" group-title="BANGLA", BTV WORLD
-http://163.172.29.246:8081/globalbd/btv/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
-http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
-http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA", KTV
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HZTP4V4.jpg" group-title="BANGLA", BIJOY TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/t5nUhmY.jpg" group-title="BANGLA", Ananda TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/m0FBHWZ.jpg" group-title="BANGLA", Bangla TV
-http://master.beeiptv.com:8081/MB/banglatv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Deshi TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Probasi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Doyal TV
-http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Channel-S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Jhankar TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", Notun Somoy
-http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", BD Live
-https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", TBN 24
-http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6jgTdDF.jpg" group-title="BANGLA", SA TV 
+http://master.beeiptv.com:8081/MB/satv/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/88EpCDb.jpg" group-title="INDIAN BANGLA", Star Jalsha
-http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/88EpCDb.jpg" group-title="INDIAN BANGLA", Star Jalsha 2
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 1
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 3
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yirpj9I.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
@@ -131,31 +119,42 @@ http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8?@asfaiptv
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Bangla IPTV
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Ruposhi Bangla
+https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", R Plus Gold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Orange TV
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", News Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:hlscat.com
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/88EpCDb.jpg" group-title="INDIAN BANGLA", Star Jalsha
+http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
+http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 3
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xlAHAck.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
 http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lhCbUu2.jpg" group-title="BANGLA MUSIC", ATN Music
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JyOAahO.png" group-title="BANGLA MUSIC", Sangeet Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA MUSIC", Magic Bangla IPTV
 http://enaniptv.com/magicbanglatv/1080/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/lhCbUu2.jpg" group-title="BANGLA MUSIC", ATN Music
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?@asfaiptv
+ #EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA MUSIC",Dhoom Music
+https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p7eks1U.jpg" group-title="HINDI ENTERTAIN", Star plus HD
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8?@asfaiptv
@@ -163,39 +162,38 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8?@asfaiptv
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD
 https://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD USA
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD Canada
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Hindi
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Rishtey
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fnmQ4qf.png" group-title="HINDI ENTERTAIN", And TV
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9yZFIAW.png" group-title="HINDI ENTERTAIN", SONY SAB
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9yZFIAW.png" group-title="HINDI ENTERTAIN", SONY Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD USA
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD Canada
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fnmQ4qf.png" group-title="HINDI ENTERTAIN", And TV
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX 2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dQ3KvXg.jpg" group-title="HINDI MOVIE", BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dQ3KvXg.jpg" group-title="HINDI MOVIE", BFlix Movies
-https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/QBVE6DC.jpg" group-title="HINDI MOVIE", And Pictures HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="HINDI MOVIE", Star Gold
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="HINDI MOVIE", Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="HINDI MOVIE", Star Gold Select
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QBVE6DC.jpg" group-title="HINDI MOVIE", And Pictures HD
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Sony Wah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Enterr10 Movies
+https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bh9jfds.jpg" group-title="HINDI MOVIE", Zee Cinema
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H2VD0Cc.jpg" group-title="HINDI MOVIE", ZEE ANMOL
@@ -204,22 +202,6 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8?@asfaiptv
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5tsG7Ik.png" group-title="HINDI MOVIE", ZEE ACTION
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", CINEPLEX HD
-https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=71c563eadccd82f5b77c1591d7986d5c3c803709&unique=83d1402d58a19879145815c8257d9598
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", WoW CINEMA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", BOX CINEMA
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Colors Rishtey
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Abzy Movies
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood
 https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Monoronjan Movies
@@ -228,37 +210,55 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?@asfaiptv
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", MAHA MOVIE
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Sony Wah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", CINEPLEX HD
+https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=71c563eadccd82f5b77c1591d7986d5c3c803709&unique=83d1402d58a19879145815c8257d9598
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", B4U Kadak
+https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Colors Rishtey
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Abzy Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Cinema TV India
+https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX 2
+https://load.airtelxstream.in/sonymax2/smil:common.smil/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dQ3KvXg.jpg" group-title="HINDI MOVIE", BFlix Movies
+https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Y5evpgu.jpg" group-title="HINDI MUSIC", Mastii
 https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Y5evpgu.jpg" group-title="HINDI MUSIC", Mastii Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rVBz5u9.jpg" group-title="HINDI MUSIC", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqQrQ74.jpg" group-title="HINDI MUSIC", B4U Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OGyI1wM.jpg" group-title="HINDI MUSIC", Zing
 http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OGyI1wM.jpg" group-title="HINDI MUSIC", Zing
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x Jalwa
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x tahsan
+https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PXrhmnR.jpg" group-title="HINDI MUSIC", Mtv India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Pop
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9xM
-https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9XM MX
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Cine Voice
@@ -270,26 +270,33 @@ https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8?@asfaiptv
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Y5evpgu.jpg" group-title="HINDI MUSIC", Mastii Music
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OGyI1wM.jpg" group-title="HINDI MUSIC", Zing
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9xM
+https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x Jalwa
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist.m3u8?@asfaiptv
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [HINDI-1]
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [HINDI-2]
-https://streamitv.multitvsolution.in/idvo/tlceng.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [ENGLISH]
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery-Bangla
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery HD [HINDI]
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Discovery ID-Hindi
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery Science [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ft131E.jpg" group-title="INFOTAINMENT & LIFESTYLE", ANIMAL PLANET HD [HINDI]
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ft131E.jpg" group-title="INFOTAINMENT & LIFESTYLE", ANIMAL PLANET HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery Science [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WVdif2R.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth Hindi
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WVdif2R.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth unknown
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV 18
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV
@@ -302,66 +309,72 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8?@asfaiptv
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SjdwhG8.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
 http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXVwMAUFIHBQBUAQdRUgVWVl0MVFBWBFgLDgQBVQMGAQRGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVIFXwVQEhhDQl9eBEReUlBdB1lWV1BXABsWQw0FRggXVgRTC1YSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANfCQVUFEs=
+XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ynfXPp6.jpg" group-title="INFOTAINMENT & LIFESTYLE", RT Documentary
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Animal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE",Travel Channel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [HINDI-2]
+https://streamitv.multitvsolution.in/idvo/tlceng.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [ENGLISH]
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery Science [ENGLISH]
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SjdwhG8.jpg" group-title="INFOTAINMENT & LIFESTYLE", Nat Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Discovery ID-Hindi
-https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8?@asfaiptv
-XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8?@asfaiptv
-XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ynfXPp6.jpg" group-title="INFOTAINMENT & LIFESTYLE", RT Documentary
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Animal
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WVdif2R.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth unknown
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", CBeebies
+http://51.52.156.22:8888/http/003?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logohttp://livedoomovie.com="https://i.imgur.com/omzrdYn.jpg" group-title="KIDS-CARTOONS", discovery kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", CBeebies
-http://51.52.156.22:8888/http/003?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nicklodeon
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nickelodeonPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick +
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nick_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sonic
+https://ott.bingebd.com:443/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sonicPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay (Telegu)
+https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Tom & Jerry
 http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv?@asfaiptv
 
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="SPORTS", IPL Live 2
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="SPORTS", IPL Live GTV
 http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 HD
-https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 Hindi
-https://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
-http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
+https://ahmadabdullahrifat.shortcm.li/starsports1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
 https://ahmadabdullahrifat.shortcm.li/starsports2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 1
 https://ahmadabdullahrifat.shortcm.li/starsportsselect1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 2
 https://ahmadabdullahrifat.shortcm.li/starsportsselect2
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sport DH
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Aryadia Sport
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1
 https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1 HD
@@ -372,6 +385,15 @@ https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8?@asfaip
 https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3 HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sport DH
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Aryadia Sport
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8?@asfaiptv
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Premier_HD_01
 https://128-b.in.net/EPL_01
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", REAL MADRID TV
@@ -382,20 +404,29 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s37-v1-a1.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sports West
 http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports Extra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
-http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
-https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 2
-https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FC Bayern TV Live
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS", Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORTS", Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", YUPP TV
+http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", ESPN 2
+https://gma2.blab.email/espn2.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Combat Go
+http://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?@asfaiptv
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",PremierHD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8?@asfaiptv
@@ -443,17 +474,10 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?@asfaiptv
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORT 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8?@asfaiptv
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Fox Sport HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Fox sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 1
-https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 2
-https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 3
-https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", USEESPORT 1
 https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",USEESPORT 2
@@ -463,22 +487,12 @@ https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",CHAMPION 2
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?token=soheliptv01826655778
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", YUPP TV
-http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", ESPN 2
-https://gma2.blab.email/espn2.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Combat Go
-http://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports Extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
+http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 2
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport3
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6124/index.m3u8?@asfaiptv
@@ -500,6 +514,13 @@ http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6131/index.m3u8?@asfaiptv
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport12
 http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6133/index.m3u8?@asfaiptv
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 1
+https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 2
+https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS",FOX SPORTS 3
+https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS",AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8?@asfaiptv
@@ -553,7 +574,7 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8?@asfaiptv
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIE", HBO HD
 http://136.243.177.164/HBO/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", star movies
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", star movies select
 http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tLvOejt.jpg" group-title="ENGLISH MOVIE", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?@asfaiptv
@@ -606,6 +627,14 @@ https://www.djing.com/tv/underground.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", ABP NEWS
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Times Now
+https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", TIMES NOW
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Mirror Now
+https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", NDTV India
@@ -642,16 +671,12 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@asf
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", RT News
 http://rt-usa.secure.footprint.net:80/1105_800Kb.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", TIMES NOW
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8?@asfaiptv
 
@@ -1012,278 +1037,4 @@ http://10.16.100.207:8082/sports/sunnahtv.m3u8
 http://10.16.100.207:8082/sports/qurantv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-ICC live",Peace TV Bangla
 http://10.16.100.207:8082/sports/peacetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" group-title=" English Movies(ASFAIPTV)",Wonder Woman (2017)
-http://deadlyblogger.com/NewRelease/wonderwoman.mp4
-#EXTINF:-1 tvg-logo="https://www.alveo-slovakia.com/photo/4437484/rogue-one-a-star-wars-story-2016-directed-by-gareth-edwards-rogue-one-a-star-wars-story.jpg "group-title=" English Movies(ASFAIPTV)",Rogue One: A Star Wars Story (2016)
-http://deadlyblogger.com/NewRelease/rogue1.mp4
-#EXTINF:-1 tvg-logo="https://unobtainium13.files.wordpress.com/2016/05/x-men_-_apocalypse.jpg" "group-title=" English Movies(ASFAIPTV)",X-Men: Apocalypse (2016)
-http://deadlyblogger.com/NewRelease/xmen2016.mp4
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" "group-title=" English Movies(ASFAIPTV)",The Hateful Eight (2015)
-http://deadlyblogger.com/NewRelease/hateful2015.mp4
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/A/A-Haunted-House-2-2014-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",A Haunted House 2 (2014)
-http://www.deadlyblogger.com/NewRelease/haunted2.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Bll7eZdOL._SY445_.jpg" "group-title=" English Movies(ASFAIPTV)",Get on Up (2014)
-http://deadlyblogger.com/NewRelease/getonup.mp4
-#EXTINF:-1 tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/05/guardians-of-the-galaxy-poster__140517031325.jpg" "group-title=" English Movies(ASFAIPTV)",Guardians of the Galaxy (2014)
-http://deadlyblogger.com/NewRelease/guardians2014.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/ab/10/55ab107453cf4a78b24c184d29abf25b.jpg" "group-title=" English Movies(ASFAIPTV)",John Wick (2014)
-http://deadlyblogger.com/NewRelease/johnwick.mp4
-#EXTINF:-1 tvg-logo="http://img.movieboom.biz/movie/36786.jpg" "group-title=" English Movies(ASFAIPTV)",Madea's Neighbors from Hell (2014)
-http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/a/a4/Maleficent-%282014%29-149.jpg" "group-title=" English Movies(ASFAIPTV)",Maleficent (2014)
-http://www.deadlyblogger.com/NewRelease/maleficent.mp4
-#EXTINF:-1 tvg-logo="https://www.scifinow.co.uk/wp-content/uploads/2013/12/mr_peabody_and_sherman_ver11_xlg.jpg" "group-title=" English Movies(ASFAIPTV)",Mr. Peabody & Sherman (2014)
-http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Need_For_Speed_poster.jpg/220px-Need_For_Speed_poster.jpg" "group-title=" English Movies(ASFAIPTV)",Need for Speed (2014)
-http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Non-Stop2014Poster.jpg" "group-title=" English Movies(ASFAIPTV)",Non-Stop (2014)
-http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid13412.jpg" "group-title=" English Movies(ASFAIPTV)",Paranormal Activity: The Marked Ones (2014)
-http://www.deadlyblogger.com/NewRelease/markedones.mp4
-#EXTINF:-1 tvg-logo="https://www.aceshowbiz.com/images/still/pompeii-poster03.jpg" "group-title=" English Movies(ASFAIPTV)",Pompeii (2014)
-http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
-#EXTINF:-1 tvg-logo="http://www.theglobaldispatch.com/wp-content/uploads/2014/01/Ride-Along-movie-poster-Kevin-Hart-Ice-Cube.jpg" "group-title=" English Movies(ASFAIPTV)",Ride Along (2014)
-http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/rio-2-2014/large_bwQZz9n9Xak8yjXLtOJwRqLVNNl.jpg" "group-title=" English Movies(ASFAIPTV)",Rio 2 (2014)
-http://www.deadlyblogger.com/NewRelease/rio2.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pY7p638Tg0c/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",School Dance (2014)
-http://www.deadlyblogger.com/NewRelease/schooldance.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91igg0QG7nL._RI_SX200_.jpg" "group-title=" English Movies(ASFAIPTV)",Taken 3 (2014)
-http://deadlyblogger.com/NewRelease/taken3.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIpogrD6CIl6ss_376_a/The-Amazing-Spider-Man-2.jpg" "group-title=" English Movies(ASFAIPTV)",The Amazing Spider-Man 2 (2014)
-http://www.deadlyblogger.com/NewRelease/amazin2.mp4
-#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/0/960/960/15/10915615-1401810867-463502.jpg" "group-title=" English Movies(ASFAIPTV)",The Lego Movie (2014)
-http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
-#EXTINF:-1 tvg-logo="https://www.filmlinks4u.is/wp-content/uploads/2016/01/The-Pirate-Fairy-2014-Hollywood-Movie-Watch-Online.jpg" "group-title=" English Movies(ASFAIPTV)",The Pirate Fairy (2014)
-http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
-#EXTINF:-1 tvg-logo="http://www.blackfilm.com/read/wp-content/uploads/2014/02/The-Single-Moms-Club-poster-2a.jpg" "group-title=" English Movies(ASFAIPTV)",The Single Moms Club (2014)
-http://www.deadlyblogger.com/NewRelease/singlemom.mp4
-#EXTINF:-1 tvg-logo="http://www.stevealdous.co.uk/wp-content/uploads/2015/01/545454.Veronica-Mars-Movie-Poster.jpg" "group-title=" English Movies(ASFAIPTV)",Veronica Mars (2014)
-http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
-#EXTINF:-1 tvg-logo="https://dg7kra6zb39sn.cloudfront.net/media/spotlight/page/poster-50932b1e-abf0-4f17-8e1a-357fb191953f.jpg" "group-title=" English Movies(ASFAIPTV)",12 Years a Slave (2013)
-http://www.deadlyblogger.com/NewRelease/12slave.mp4
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/cinemorgue/images/0/09/810a2xlo4gL._SL1500_.jpg" "group-title=" English Movies(ASFAIPTV)",47 Ronin (2013)
-http://www.deadlyblogger.com/NewRelease/47ronin.mp4
-#EXTINF:-1 tvg-logo="https://horrorpediadotcom.files.wordpress.com/2014/03/afflicted-poster-690x1024.jpg" "group-title=" English Movies(ASFAIPTV)",Afflicted (2013)
-http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/After_Earth_Poster.jpg" "group-title=" English Movies(ASFAIPTV)",After Earth (2013)
-http://www.deadlyblogger.com/NewRelease/after.mp4
-#EXTINF:-1 tvg-logo="http://i2.cdnds.net/13/44/618x914/american-hustle-poster-2.jpg" "group-title=" English Movies(ASFAIPTV)",American Hustle (2013)
-http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIABIFED2awWEC_376_a/Anchorman-2-The-Legend-Continues.jpg" "group-title=" English Movies(ASFAIPTV)",Anchorman 2: The Legend Continues (2013)
-http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Jackass_Presents_Bad_Grandpa.jpg" "group-title=" English Movies(ASFAIPTV)",Bad Grandpa (2013)
-http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
-#EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Video1/v4/5b/8b/f2/5b8bf256-da09-3468-b8b6-aa368e47ceea/source/1200x630bb.jpg" "group-title=" English Movies(ASFAIPTV)",Battle of the Year (2013)
-http://www.deadlyblogger.com/NewRelease/battleyear2013.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Carrie_Domestic_One-sheet.jpg" "group-title=" English Movies(ASFAIPTV)",Carrie (2013)
-http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
-#EXTINF:-1 tvg-logo="http://christianentertainmentreviews.com/wp-content/uploads/2013/06/Delivery-Man-2013.jpg" "group-title=" English Movies(ASFAIPTV)",Delivery Man (2013)
-http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Empire_State-759728399-large.jpg" "group-title=" English Movies(ASFAIPTV)",Empire State (2013)
-http://www.deadlyblogger.com/NewRelease/empirestate.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Epic_%282013_film%29_poster.jpg" "group-title=" English Movies(ASFAIPTV)",Epic (2013)
-http://www.deadlyblogger.com/NewRelease/epic1.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Escapeplanfilmposter.jpg/220px-Escapeplanfilmposter.jpg" "group-title=" English Movies(ASFAIPTV)",Escape Plan (2013)
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid13150.jpg" "group-title=" English Movies(ASFAIPTV)",Free Birds (2013)
-http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
-#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2016/03/Cover_image-Frozen-2013.jpg" "group-title=" English Movies(ASFAIPTV)",Frozen (2013)
-http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
-#EXTINF:-1 tvg-logo="http://hq.am/wp-content/uploads/2013/07/movies-fast-and-furious-6-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Furious 6 (2013)
-http://www.deadlyblogger.com/NewRelease/fast6.mp4
-#EXTINF:-1 tvg-logo="http://p4.isanook.com/mv/0/ud/7/35100/movies-grown-ups-2-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Grown Ups 2 (2013)
-http://www.deadlyblogger.com/NewRelease/grown2.mp4
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/grudge-match-2013/large_m7tCLFtU5TlbWbjsrAS34yODw2M.jpg" "group-title=" English Movies(ASFAIPTV)",Grudge Match (2013)
-http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Identity_Thief_Poster.jpg/220px-Identity_Thief_Poster.jpg" "group-title=" English Movies(ASFAIPTV)",Identity Thief (2013)
-http://www.deadlyblogger.com/NewRelease/identitythief.mp4
-#EXTINF:-1 tvg-logo="https://thecinemaid.files.wordpress.com/2014/02/insidious-chapter-2-2013-03.jpg" "group-title=" English Movies(ASFAIPTV)",Insidious - Chapter 2 (2013)
-http://www.deadlyblogger.com/NewRelease/insidious2.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg" "group-title=" English Movies(ASFAIPTV)",Iron Man 3 (2013)
-http://www.deadlyblogger.com/NewRelease/ironman3.mp4
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/K/Kevin-Hart-Let-Me-Explain-2013-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Kevin Hart: Let Me Explain (2013)
-http://www.deadlyblogger.com/NewRelease/kevin.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIz0UOPXaUXEEz_370_a/Kick-Ass-2.jpg" "group-title=" English Movies(ASFAIPTV)",Kick-Ass 2 (2013)
-http://www.deadlyblogger.com/NewRelease/kickass2.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/BMUtIJxCUAE_Vsv.jpg" "group-title=" English Movies(ASFAIPTV)",Killing Season (2013)
-http://www.deadlyblogger.com/NewRelease/killings.mp4
-#EXTINF:-1 tvg-logo="http://www.wearemoviegeeks.com/wp-content/uploads/248158id1f_lastvegas_1sht.jpg" "group-title=" English Movies(ASFAIPTV)",Last Vegas (2013)
-http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/3/1/4/3/2/9/314329-lego-star-wars-the-yoda-chronicles-episode-iii-attack-of--0-230-0-345-crop.jpg" "group-title=" English Movies(ASFAIPTV)",Lego Star Wars: The Yoda Chronicles (2013)
-http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
-#EXTINF:-1 tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Man-of-Steel-2013.jpg" "group-title=" English Movies(ASFAIPTV)",Man of Steel (2013)*
-http://www.deadlyblogger.com/NewRelease/steel.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qX6fvPqvsLg/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",Man of Tai Chi (2013)
-http://www.deadlyblogger.com/NewRelease/tai.mp4
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/M/Monsters-University-2013-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Monsters University (2013)
-http://www.deadlyblogger.com/NewRelease/monsters2.mp4
-#EXTINF:-1 tvg-logo="https://www.movietard.com/wp-content/uploads/2015/03/Watch-Now-You-See-Me-2013-online.jpg" "group-title=" English Movies(ASFAIPTV)",Now You See Me (2013)
-http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
-#EXTINF:-1 tvg-logo="http://movienews.ro/reviews/wp-content/uploads/2013/03/olympus_has_fallen_ver10.jpg" "group-title=" English Movies(ASFAIPTV)",Olympus Has Fallen (2013)
-http://www.deadlyblogger.com/NewRelease/fallen1.mp4
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5483f2a1e4b069cf1af24d9f/5493625fe4b07d6cfb04e8c2/549788b1e4b0385fffd71f44/1419919242596/prisoners_ver9_xxlg.jpg" ,Prisoners (2013)
-http://www.deadlyblogger.com/NewRelease/prisoners.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BvsB0V9K7GQ/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",Repentance (2013)
-http://www.deadlyblogger.com/NewRelease/repentance.mp4
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/runner-runner-2013/large_1o7Xua36MYG3roCRrx3t3oaEwDW.jpg" "group-title=" English Movies(ASFAIPTV)",Runner Runner (2013)
-http://www.deadlyblogger.com/NewRelease/runnerrunner.mp4
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/filmguide/images/1/16/Movies_saving-mr-banks-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Saving Mr. Banks (2013)
-http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BgkjfBpWL._RI_SX200_.jpg" "group-title=" English Movies(ASFAIPTV)",Star Trek: Into Darkness (2013)
-http://deadlyblogger.com/NewRelease/darkness.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/The_Bling_Ring_poster.jpg" "group-title=" English Movies(ASFAIPTV)",The Bling Ring (2013)
-http://www.deadlyblogger.com/NewRelease/blingring.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Bx5D7v-px_s/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",The Call (2013)
-http://www.deadlyblogger.com/NewRelease/thecall.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYGkdhOEVoFrLNUotuTXemtQAWd.jpg" "group-title=" English Movies(ASFAIPTV)",The Conjuring (2013)
-http://www.deadlyblogger.com/NewRelease/conjuring.mp4
-#EXTINF:-1 tvg-logo="http://www.cityonfire.com/wp-content/uploads/2013/07/grand.jpg" "group-title=" English Movies(ASFAIPTV)",The Grandmaster (2013)
-http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/The_Family_2013%2C_Poster.jpg" "group-title=" English Movies(ASFAIPTV)",The Family (2013)
-http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
-#EXTINF:-1 tvg-logo="http://www.yifysubtitles.com/images/movies/movie-76.jpg" "group-title=" English Movies(ASFAIPTV)",The Hangover Part III (2013)
-http://www.deadlyblogger.com/NewRelease/hangover3.mp4
-#EXTINF:-1 tvg-logo="http://thecodeofzaw.com/wp-content/uploads/2015/02/The-Heat-Posterhd.jpg" "group-title=" English Movies(ASFAIPTV)",The Heat (2013)
-http://www.deadlyblogger.com/NewRelease/theheat.mp4
-#EXTINF:-1 tvg-logo="https://www.yifysubtitles.com/images/movies/movie-2585.jpg" "group-title=" English Movies(ASFAIPTV)",The Hobbit: The Desolation of Smaug (2013)
-http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
-#EXTINF:-1 tvg-logo="http://acmedia.alaskacommons.com/wp-content/uploads/2013/11/The-Hunger-Games-Catching-Fire-Movie-Poster.jpg" "group-title=" English Movies(ASFAIPTV)",The Hunger Games: Catching Fire (2013)
-http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xxOKDTQbQo7h1h7TyrQIW7u8KcJ.jpg" "group-title=" English Movies(ASFAIPTV)",The Internship (2013)
-http://www.deadlyblogger.com/NewRelease/internship2013.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FsMTpwO0L0A/UlbYmvl-k6I/AAAAAAAADbI/ri_FHHkR45s/s1600/The+Jungle+Book+Return+2+the+Jungle+2013+hnmovies.jpg" "group-title=" English Movies(ASFAIPTV)",The Jungle Book: Return 2 the Jungle (2013)
-http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
-#EXTINF:-1 tvg-logo="http://download.tetrasoftbd.com/wp-content/uploads/2014/04/The-Mortal-Instruments-City-of-Bones-2013-BluRay.jpg" "group-title=" English Movies(ASFAIPTV)",The Mortal Instruments: City of Bones (2013)
-http://www.deadlyblogger.com/NewRelease/themort1.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qmsRxACxL.jpg" "group-title=" English Movies(ASFAIPTV)",The Starving Games (2013)
-http://www.deadlyblogger.com/NewRelease/starving2013.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/The_Smurfs_2_poster.jpg" "group-title=" English Movies(ASFAIPTV)",The Smurfs 2 (2013)
-http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
-#EXTINF:-1 tvg-logo="http://www.moustachemagazine.com/wp-content/uploads/2014/01/THE-WOLF-OF-WALL-STREET.jpg" "group-title=" English Movies(ASFAIPTV)",The Wolf of Wall Street (2013)
-http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/cc/9b/e0/cc9be0345a767807c8f259d4cc29ccf9.jpg" "group-title=" English Movies(ASFAIPTV)",The Wolverine (2013)*
-http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/This-is-the-End-Film-Poster.jpg" "group-title=" English Movies(ASFAIPTV)",This Is the End (2013)
-http://www.deadlyblogger.com/NewRelease/theend.mp4
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/toy-story-of-terror.28932.jpg" "group-title=" English Movies(ASFAIPTV)",Toy Story of Terror (2013)
-http://www.deadlyblogger.com/NewRelease/storyterror.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5uzppQk.jpg" "group-title=" English Movies(ASFAIPTV)",Turbo (2013)
-http://www.deadlyblogger.com/NewRelease/turbo.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iSb_R6LPrpg/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",We're the Millers (2013)
-http://www.deadlyblogger.com/NewRelease/millers.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ykiz8%2BVsL._SY445_.jpg" "group-title=" English Movies(ASFAIPTV)",World War Z (2013)
-http://www.deadlyblogger.com/NewRelease/world.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/72/b8/c772b89352307075ca52a1c2336a06e2.jpg" "group-title=" English Movies(ASFAIPTV)",Flight (2012)
-http://www.deadlyblogger.com/NewRelease/flight1.mp4
-#EXTINF:-1 tvg-logo="https://s3.thcdn.com/productimg/0/300/300/72/10625672-1349283280-857679.png" "group-title=" English Movies(ASFAIPTV)",Men in Black 3 (2012)
-http://www.deadlyblogger.com/NewRelease/mnb3.mp4
-#EXTINF:-1 tvg-logo="http://www.dvdplanetstore.pk/wp-content/uploads/2014/03/pitch-perfect.jpg" "group-title=" English Movies(ASFAIPTV)",Pitch Perfect (2012)
-http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A139A0eH2wL._RI_SX200_.jpg" "group-title=" English Movies(ASFAIPTV)",Project X (2012)
-http://www.deadlyblogger.com/NewRelease/projectx.mp4
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/sm/upload/39/zq/9r/ye/qsYQflQhOuhDpQ0W2aOcwqgDAeI-0-230-0-345-crop.jpg" "group-title=" English Movies(ASFAIPTV)",Prometheus (2012)
-http://www.deadlyblogger.com/NewRelease/prometheus.mp4
-#EXTINF:-1 tvg-logo="https://stateofmind13.files.wordpress.com/2012/03/safe-house-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Safe House (2012)
-http://www.deadlyblogger.com/NewRelease/safehouse.mp4
-#EXTINF:-1 tvg-logo="https://profratigan.files.wordpress.com/2013/04/spring-breakers.jpg" "group-title=" English Movies(ASFAIPTV)",Spring Breakers (2012)
-http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
-#EXTINF:-1 tvg-logo="https://pre00.deviantart.net/3999/th/pre/i/2012/021/4/7/the_bourne_legacy_by_aaronrandall-d4n5tdb.jpg" "group-title=" English Movies(ASFAIPTV)",The Bourne Legacy (2012)
-http://www.deadlyblogger.com/NewRelease/bourne4.mp4
-#EXTINF:-1 tvg-logo="http://www-images.theonering.org/torwp/wp-content/uploads/2012/11/Hobbit-Movie-Poster-Bilbo.jpg" "group-title=" English Movies(ASFAIPTV)",The Hobbit: An Unexpected Journey (2012)
-http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
-#EXTINF:-1 tvg-logo="http://dee.sekai.cz/wp-content/uploads/2012/09/Hunger-Games.jpg" "group-title=" English Movies(ASFAIPTV)",The Hunger Games (2012)
-http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/This_is_40.jpg" "group-title=" English Movies(ASFAIPTV)",This Is 40 (2012)
-http://www.deadlyblogger.com/NewRelease/thisis40.mp4
-#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2016/03/Cover_image-Think-Like-a-Man-2012.jpg" "group-title=" English Movies(ASFAIPTV)",Think Like a Man (2012)
-http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/olnVrUyoL2ntBBuipvXBecCbTBX.jpg" "group-title=" English Movies(ASFAIPTV)",Wrong Turn 5: Bloodlines (2012)
-http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/b2/b299ad862b6f12cb57679f0538eca514_500x735.jpg" "group-title=" English Movies(ASFAIPTV)",Fast Five (2011)
-http://www.deadlyblogger.com/NewRelease/fast5.mp4
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/27907_king-of-paper-chasin.jpg" "group-title=" English Movies(ASFAIPTV)",King of Paper Chasin' (2011)
-http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AOc6qYxlavc/movieposter.jpg" "group-title=" English Movies(ASFAIPTV)",Rise of the Planet of the Apes (2011)
-http://www.deadlyblogger.com/NewRelease/apes7.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/The_Girl_with_the_Dragon_Tattoo_Poster.jpg" "group-title=" English Movies(ASFAIPTV)",The Girl with the Dragon Tattoo (2011)
-http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
-#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/the-grey-movie-poster-2011-1020734822.jpg" "group-title=" English Movies(ASFAIPTV)",The Grey (2011)
-http://www.deadlyblogger.com/NewRelease/grey.mp4
-#EXTINF:-1 tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w300//yoiJyVknXfU4jcJvPYeMOCgyLky.jpg" "group-title=" English Movies(ASFAIPTV)",The Hangover Part II (2011)
-http://www.deadlyblogger.com/NewRelease/hangover2.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/The_Hit_List.jpg" "group-title=" English Movies(ASFAIPTV)",The Hit List (2011)
-http://www.deadlyblogger.com/NewRelease/hitlist.mp4
-#EXTINF:-1 tvg-logo="https://moviesfilmsandflix.files.wordpress.com/2013/01/kick-poster2.jpg" "group-title=" English Movies(ASFAIPTV)",The Kick (2011)
-http://www.deadlyblogger.com/NewRelease/thekick.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIoUZttvlj5vrx_368_a/Transformers-Dark-Of-The-Moon.jpg" "group-title=" English Movies(ASFAIPTV)",Transformers: Dark of the Moon (2011)
-http://www.deadlyblogger.com/NewRelease/transformers3.mp4
-#EXTINF:-1 tvg-logo="http://www.horrorphilia.com/wp-content/uploads/2011/10/wrongturn4big.jpg" "group-title=" English Movies(ASFAIPTV)",Wrong Turn 4 - Bloody Beginnings (2011)
-http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
-#EXTINF:-1 tvg-logo="http://www.thesqueee.co.uk/wp-content/uploads/2011/06/xmenfirstclass.jpg" "group-title=" English Movies(ASFAIPTV)",X: First Class (2011)
-http://www.deadlyblogger.com/NewRelease/xmen4.mp4
-#EXTINF:-1 tvg-logo="https://yts.ag/assets/images/movies/Everything_Must_Go_2010/medium-cover.jpg" "group-title=" English Movies(ASFAIPTV)",Everything Must Go (2010)
-http://www.deadlyblogger.com/NewRelease/mustgo.mp4
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/scratchpad/images/7/78/Grown_ups_ver3_xlg.jpg" "group-title=" English Movies(ASFAIPTV)",Grown Ups (2010)
-http://www.deadlyblogger.com/NewRelease/grown1.mp4
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/hot-tub-time-machine-2010/large_7Ol1VgQl19XAIIB38nZLNA58ZsX.jpg" "group-title=" English Movies(ASFAIPTV)",Hot Tub Time Machine (2010)
-http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
-#EXTINF:-1 tvg-logo="https://zuts.files.wordpress.com/2013/11/insidious-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Insidious (2010)
-http://www.deadlyblogger.com/NewRelease/insidious1.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" "group-title=" English Movies(ASFAIPTV)",Iron Man 2 (2010)
-http://www.deadlyblogger.com/NewRelease/ironman2.mp4
-#EXTINF:-1 tvg-logo="http://cdn.collider.com/wp-content/uploads/jackass_3d_poster_04.jpg" "group-title=" English Movies(ASFAIPTV)",Jackass 3D (2010)
-http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/headhuntershorrorhouse/images/2/26/Saw_3D_-_The_Final_Chapter.jpg" "group-title=" English Movies(ASFAIPTV)",Saw 3D - The Final Chapter (2010)
-http://www.deadlyblogger.com/NewRelease/saw7.mp4
-#EXTINF:-1 tvg-logo="https://unshavedmouse.files.wordpress.com/2014/08/tangled_poster.jpg" "group-title=" English Movies(ASFAIPTV)",Tangled (2010)
-http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FItrjvwwCwodwz_361_a.jpg" "group-title=" English Movies(ASFAIPTV)",The Other Guys (2010)
-http://www.deadlyblogger.com/NewRelease/otherguys.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-mt9g-qXYEMo/UTjpXwiJ8PI/AAAAAAAABj0/nIggP1gzysc/s1600/unstoppable+poster.jpg" "group-title=" English Movies(ASFAIPTV)",Unstoppable (2010)
-http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/ChistmasCarol2009-Poster.jpg" "group-title=" English Movies(ASFAIPTV)",A Christmas Carol (2009)
-http://www.deadlyblogger.com/NewRelease/acc2009.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f6/7a/89/f67a89314819ba3f28e197cb5900c5d2.jpg" "group-title=" English Movies(ASFAIPTV)",Fast & Furious (2009)
-http://www.deadlyblogger.com/NewRelease/fast4.mp4
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/land-of-the-lost-2009/large_avlfNn8w9F3Z6iKrGe8FnJpQr7j.jpg" "group-title=" English Movies(ASFAIPTV)",Land of the Lost (2009)
-http://www.deadlyblogger.com/NewRelease/landlost.mp4
-#EXTINF:-1 tvg-logo="https://s.movie.as/images/p/600/10852_m1250316477.jpg" "group-title=" English Movies(ASFAIPTV)",Law Abiding Citizen (2009)
-http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIoM6trw35oyrp_359_a/Tyler-Perrys-Madea-Goes-To-Jail.jpg" "group-title=" English Movies(ASFAIPTV)",Madea Goes to Jail (2009)
-http://www.deadlyblogger.com/NewRelease/madea1.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Orphanposter.jpg" "group-title=" English Movies(ASFAIPTV)",Orphan (2009)
-http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIg69glkDJ3Rjh_362_a/Saw-VI.jpg" "group-title=" English Movies(ASFAIPTV)",Saw VI (2009)
-http://www.deadlyblogger.com/NewRelease/saw6.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0d/ca/e9/0dcae9d14ff8c1a92174fd1f1890a2b3--nfl-memes-sports-memes.jpg" "group-title=" English Movies(ASFAIPTV)",The Hangover (2009)
-http://www.deadlyblogger.com/NewRelease/hangover1.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Us9lfYL.jpg" "group-title=" English Movies(ASFAIPTV)",The Taking of Pelham 123 (2009)
-http://www.deadlyblogger.com/NewRelease/pelham123.mp4
-#EXTINF:-1  tvg-logo="https://i.jeded.com/i/transformers-revenge-of-the-fallen.25586.jpg" "group-title=" English Movies(ASFAIPTV)",Transformers: Revenge of the Fallen (2009)
-http://www.deadlyblogger.com/NewRelease/transformers2.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lBoQEANiCwM/maxresdefault.jpg" "group-title=" English Movies(ASFAIPTV)",Wrong Turn 3 - Left for Dead (2009)
-http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
-#EXTINF:-1 tvg-logo="https://s.movie.as/images/p/600/10052_m1238718497.jpg" "group-title=" English Movies(ASFAIPTV)",X-Men Origins: Wolverine (2009)
-http://www.deadlyblogger.com/NewRelease/origin.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG" "group-title=" English Movies(ASFAIPTV)",Iron Man (2008)
-http://www.deadlyblogger.com/NewRelease/ironman1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/08/be/0908be2335fa1fd1a7213518bf7359ca.jpg" "group-title=" English Movies(ASFAIPTV)",Meet the Browns (2008)
-http://www.deadlyblogger.com/NewRelease/browns1.mp4
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIJ5QJKPF4SJNQ_358_a/Saw-V.jpg" "group-title=" English Movies(ASFAIPTV)",Saw V (2008)
-http://www.deadlyblogger.com/NewRelease/saw5.mp4
-#EXTINF:-1 tvg-logo="http://www.imagesyoulike.com/images/j/32x24/j5591.jpg" "group-title=" English Movies(ASFAIPTV)",Semi-Pro (2008)
-http://www.deadlyblogger.com/NewRelease/semipro.mp4
-#EXTINF:-1 tvg-logo="http://static.vivacinema.it/vivacinema/fotogallery/625X0/5746/seven-pounds-locandina.jpg" "group-title=" English Movies(ASFAIPTV)",Seven Pounds (2008)
-http://www.deadlyblogger.com/NewRelease/sevenp.mp4
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/S/Step-Brothers-movie-poster.jpg" "group-title=" English Movies(ASFAIPTV)",Step Brothers (2008)
-http://www.deadlyblogger.com/NewRelease/stepbro.mp4
-#EXTINF:-1 tvg-logo="https://klling.files.wordpress.com/2013/05/the-house-bunny-poster.jpg" "group-title=" English Movies(ASFAIPTV)",The House Bunny (2008)
-http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
-
-
-
-
-
 
