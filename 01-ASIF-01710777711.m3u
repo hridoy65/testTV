@@ -114,7 +114,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yirpj9I.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
 http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
-http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8?@asfaiptv
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
@@ -144,6 +144,8 @@ http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?@asfaiptv
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
+http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xlAHAck.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
 http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8?@asfaiptv
