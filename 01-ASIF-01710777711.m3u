@@ -410,6 +410,18 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay (Telegu)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", VENN
+https://venntv-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", ESTV
+https://estv-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", ESR 24x7
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="Live Gaming", Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="SPORTS", IPL Live GTV
 http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
