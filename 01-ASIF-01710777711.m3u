@@ -616,6 +616,8 @@ https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", AXN
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", AXN 2
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX MOVIES
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX Life
