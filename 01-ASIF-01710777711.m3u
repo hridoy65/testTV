@@ -196,7 +196,7 @@ https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Enterr10 Movies
 https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?@asfaiptv
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX 2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0TbWzW4.jpg" group-title="HINDI MOVIE", Star Gold
@@ -248,7 +248,7 @@ https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX 2
 https://load.airtelxstream.in/sonymax2/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dQ3KvXg.jpg" group-title="HINDI MOVIE", BFlix Movies
