@@ -526,13 +526,14 @@ http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8?@asfaiptv
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/212
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 2
-http://bdvisioniptv.ddns.net:25461/morselin53/7653/198
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#http://bdvisioniptv.ddns.net:25461/morselin53/7653/198
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1
-http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8?@asfaiptv
+http://103.205.133.50/hls/ten1.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/150
 #https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8?@asfaiptv
-#http://103.205.133.50/hls/ten1.m3u8?@asfaiptv
+#http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 2
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #http://103.205.133.50/hls/ten2.m3u8?@asfaiptv
@@ -540,7 +541,8 @@ http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/196
 #https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3
-http://dx3.gcdn.co/TEN3HD/index.m3u8?@asfaiptv
+http://103.205.133.50/hls/ten3.m3u8
+#http://dx3.gcdn.co/TEN3HD/index.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/197
 #https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8?@asfaiptv
