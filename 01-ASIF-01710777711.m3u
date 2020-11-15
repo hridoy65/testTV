@@ -331,6 +331,8 @@ https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8?@asfaiptv 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History 2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8?@asfaiptv 
+XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", LIFE & STYLE
+http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zOo3dS8.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geo
@@ -399,6 +401,8 @@ http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay (Telegu)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 
+#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", EGG Network
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", ESTV
 https://estv-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", ESR 24x7
@@ -417,22 +421,22 @@ http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 [HINDI]
 https://tivimateplaylists.live/starsportshindin
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
-http://103.205.133.50/hls/chss2.m3u8
+http://103.205.133.50/hls/chss2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 1
-http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8?@asfaiptv
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8?@asfaiptv
-#http://103.205.133.50/hls/ten1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1 HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8?@asfaiptv
+#https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8?@asfaiptv
+#http://103.205.133.50/hls/ten1.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 2
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8?@asfaiptv
-#http://103.205.133.50/hls/ten2.m3u8
+http://103.205.133.50/hls/ten2.m3u8?@asfaiptv
+#http://dx3.gcdn.co/TEN2HD/index.m3u8?@asfaiptv
+#https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?@asfaiptv
+http://dx3.gcdn.co/TEN3HD/index.m3u8
+#https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?@asfaiptv
+#https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
