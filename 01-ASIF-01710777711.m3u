@@ -696,6 +696,27 @@ https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", Cham2
 https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8?@asfaiptv
 
+#EXTINF:-1 channel-id="2" radio="false" tvg-id="dummy000" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Falling Skys
+https://stream.allsprk.tv/live/0/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="3" radio="false" tvg-id="dummy001" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Movies
+https://stream.allsprk.tv/live/1/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="4" radio="false" tvg-id="dummy002" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", The Guy Code
+https://stream.allsprk.tv/live/2/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="5" radio="false" tvg-id="dummy003" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", MysteryScienceTheater3000 MST3K
+https://stream.allsprk.tv/live/3/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="6" radio="false" tvg-id="dummy004" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Beavis and Butthead
+https://stream.allsprk.tv/live/4/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="7" radio="false" tvg-id="dummy005" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", South Park
+https://stream.allsprk.tv/live/5/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="8" radio="false" tvg-id="dummy006" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Adventure Time
+https://stream.allsprk.tv/live/6/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="9" radio="false" tvg-id="dummy007" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", The X Files
+https://stream.allsprk.tv/live/7/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="10" radio="false" tvg-id="dummy008" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Various
+https://stream.allsprk.tv/live/8/index.m3u8?@asfaiptv
+#EXTINF:-1 channel-id="11" radio="false" tvg-id="dummy009" tvg-logo="https://i.ytimg.com/vi/0LsjPzSOEFE/hqdefault.jpg" group-title="ENGLISH MOVIE", Charlie Brown Peanuts
+https://stream.allsprk.tv/live/9/index.m3u8?@asfaiptv
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", AXN
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", AXN 2
