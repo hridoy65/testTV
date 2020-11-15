@@ -421,7 +421,8 @@ https://venntv-ono.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="SPORTS", IPL Live GTV
 http://113.212.111.246:8080/hls/col2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
-http://bdvisioniptv.ddns.net:25461/morselin53/7653/661
+http://113.212.111.246:8080/hls/col2.m3u8
+#http://bdvisioniptv.ddns.net:25461/morselin53/7653/661
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
 http://bdvisioniptv.ddns.net:25461/morselin53/7653/200
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 [HINDI]
@@ -435,18 +436,20 @@ http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star select 2
 http://bdvisioniptv.ddns.net:25461/morselin53/7653/198
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 1
-http://bdvisioniptv.ddns.net:25461/morselin53/7653/150
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+#http://bdvisioniptv.ddns.net:25461/morselin53/7653/150
 #https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8?@asfaiptv
 #http://103.205.133.50/hls/ten1.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 2
-http://103.205.133.50/hls/ten2.m3u8?@asfaiptv
+http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+#http://103.205.133.50/hls/ten2.m3u8?@asfaiptv
 #http://dx3.gcdn.co/TEN2HD/index.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/196
 #https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony Ten 3
-http://bdvisioniptv.ddns.net:25461/morselin53/7653/197
-#http://dx3.gcdn.co/TEN3HD/index.m3u8
+http://dx3.gcdn.co/TEN3HD/index.m3u8
+#http://bdvisioniptv.ddns.net:25461/morselin53/7653/197
 #https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8?@asfaiptv
 #https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
@@ -454,6 +457,7 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/185
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
+#http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Bek Sport DH
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Aryadia Sport
