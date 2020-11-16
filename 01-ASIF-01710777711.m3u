@@ -564,6 +564,8 @@ http://103.205.133.50/hls/ten3.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 #http://bdvisioniptv.ddns.net:25461/morselin53/7653/185
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", Ptv Sports
+http://bdvisioniptv.ddns.net:25461/morselin53/7653/660
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8?@asfaiptv
 #http://dx3.gcdn.co/TENCRICKET/index.m3u8?@asfaiptv
