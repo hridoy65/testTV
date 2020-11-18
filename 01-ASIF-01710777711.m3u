@@ -506,24 +506,34 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1.720p" tvg-logo="" group-title="SPORTS", beIN:beIN1.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
+#http://194.99.21.90/Beinsport1/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN2.720p" tvg-logo="" group-title="SPORTS", beIN:beIN2.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+#http://194.99.21.90/Bein2/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN3.720p" tvg-logo="" group-title="SPORTS", beIN:beIN3.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
+#http://194.99.21.90/Bein3x/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN4.720p" tvg-logo=""group-title="SPORTS", beIN:beIN4.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
+#http://194.99.21.90/Bei4/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN5.720p" tvg-logo="" group-title="SPORTS", beIN:beIN5.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
+#http://194.99.21.90/Bein5/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN6.720p" tvg-logo="" group-title="SPORTS", beIN:beIN6.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
+#http://194.99.21.90/bein6/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN7.720p" tvg-logo="" group-title="SPORTS", beIN:beIN7.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
+#http://194.99.21.90/bein7/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN8.720p" tvg-logo="" group-title="SPORTS", beIN:beIN8.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
+#http://194.99.21.90/bein8/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN9.720p" tvg-logo="" group-title="SPORTS", beIN:beIN9.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
+#http://194.99.21.90/bein9/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN10.720p" tvg-logo="" group-title="SPORTS", beIN:beIN10.720p
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
+#http://194.99.21.90/bein10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport14
 http://digitalxpress2.gcdn.co/live1/bein14/index.m3u8
