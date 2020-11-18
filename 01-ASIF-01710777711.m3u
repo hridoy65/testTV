@@ -35,11 +35,13 @@ http://103.205.133.50/hls/ichannel.m3u8?@asfaiptv
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?@asfaiptv
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8LZimbu.jpg" group-title="BANGLA", CHANNEL 24
-http://103.205.133.50/hls/channel24.m3u8?@asfaiptv
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hbRK4yL.png" group-title="BANGLA", CHANNEL 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8LZimbu.jpg" group-title="BANGLA", CHANNEL 24
+http://103.205.133.50/hls/channel24.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="BANGLA",Channel 52
+http://str24.l9574.com/503.stream/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gNKxlgj.jpg" group-title="BANGLA", DBC NEWS
 http://103.205.133.50/hls/dbcnews.m3u8?@asfaiptv
 #https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8?@asfaiptv
@@ -55,6 +57,8 @@ http://103.205.133.50/hls/ekushey.m3u8?@asfaiptv
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SDpt5En.jpg" group-title="BANGLA", EKATTOR TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FhyuTri.jpg" group-title="BANGLA", Falguni TV
+http://103.103.32.106:9981/stream/channelid/2078723227
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="BANGLA", GAZI TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sfN1Gr2.png" group-title="BANGLA", INDEPENDENT TV
@@ -92,6 +96,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v0SaZJd.jpg" group-title="BANGLA", SOMOY TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QAQxzka.jpg" group-title="BANGLA", SRISTY TV
+http://103.103.32.106:9981/stream/channelid/146183229
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JKQjGJk.jpg" group-title="BANGLA", Sangsad
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6HHjQC0.jpg" group-title="BANGLA", T Sports
@@ -150,6 +156,8 @@ http://103.205.133.50/hls/zeebangla.m3u8?@asfaiptv
 http://103.205.133.50/hls/sony8.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yirpj9I.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
 http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="INDIAN BANGLA", Artv Network
+https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
@@ -333,7 +341,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf26
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WVdif2R.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth Hindi
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WVdif2R.jpg" group-title="INFOTAINMENT & LIFESTYLE", BBC Earth unknown
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
 XTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", CGTN Documentary
