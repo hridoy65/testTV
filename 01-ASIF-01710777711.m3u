@@ -1297,3 +1297,59 @@ http://10.16.100.207:8082/sports/qurantv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-ICC live",Peace TV Bangla
 http://10.16.100.207:8082/sports/peacetv.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Gazi TV
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Channel 9
+http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Deepto
+http://otv.ftpbd.net/streams/103/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Ekattor
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Channel I HD
+http://otv.ftpbd.net/streams/126/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Sony Aath
+http://otv.ftpbd.net/streams/127/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Zee bangla
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Sony Ten1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Sont Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", 17
+http://otv.ftpbd.net/streams/117/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", 18
+http://otv.ftpbd.net/streams/118/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Duronto TV
+http://otv.ftpbd.net/streams/119/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Disney
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", CN
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", 20
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", National Geographic HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-FTPBD live", Discovery
+http://otv.ftpbd.net/streams/121/index.m3u8
+
+
