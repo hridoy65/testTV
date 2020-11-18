@@ -488,7 +488,6 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8?@asfa
 #http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?@asfaiptv
 #EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", Ptv Sports
 
-
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", BEIN LALIGA HD
 http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 #http://185.71.64.167:80/7654321/1234567/79306?checkedby:hlscat.com
@@ -496,27 +495,41 @@ http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 #https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:hlscat.com
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
-http://51.158.145.148:25461/test/test/31
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 01
-https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
-#http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8?@asfaiptv
-#http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 2
-http://51.158.145.148:25461/test/test/33
-#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 02
-https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
-#http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport3
-http://dx3.gcdn.co/BEINSPORTSES/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport4
-http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport5
-http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8?@asfaiptv
+
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1.720p" tvg-logo="" group-title="SPORTS", beIN:beIN1.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN2.720p" tvg-logo="" group-title="SPORTS", beIN:beIN2.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN3.720p" tvg-logo="" group-title="SPORTS", beIN:beIN3.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN4.720p" tvg-logo=""group-title="SPORTS", beIN:beIN4.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN5.720p" tvg-logo="" group-title="SPORTS", beIN:beIN5.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN6.720p" tvg-logo="" group-title="SPORTS", beIN:beIN6.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN7.720p" tvg-logo="" group-title="SPORTS", beIN:beIN7.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN8.720p" tvg-logo="" group-title="SPORTS", beIN:beIN8.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN9.720p" tvg-logo="" group-title="SPORTS", beIN:beIN9.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN10.720p" tvg-logo="" group-title="SPORTS", beIN:beIN10.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport14
 http://digitalxpress2.gcdn.co/live1/bein14/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport15
 http://digitalxpress2.gcdn.co/live1/bein15/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Selcuk sports 1
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/54/naxi/caxi.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Selcuk sports 2
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/25/naxi/caxi.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Selcuk sports 3
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Selcuk sports 4
+https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/27/naxi/caxi.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Real Madrid eng
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
@@ -664,60 +677,23 @@ https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="SPORTS", Cham2
 https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8?@asfaiptv
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport6
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6127/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport7
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6128/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport8
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6129/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport9
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6130/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport10
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6131/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport11
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6132/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport12
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6133/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS", Eleven Sport1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2518/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS", Eleven Sport2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2517/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png"group-title="SPORTS", DIGI SPORT1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2523/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS", DIGI SPORT2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2522/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="SPORTS", DIGI SPORT3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2524/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png"group-title="SPORTS", DIGI SPORT4
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2538/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="SPORTS", Match! Football1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/124/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="SPORTS", Match! Football2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/530/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="SPORTS", Match! Football3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/522/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS", Match! TV
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/535/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_igra.png" group-title="SPORTS", Match! Game
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/529/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_arena.png" group-title="SPORTS", Match! Arena
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/528/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-premier-ru.png" group-title="SPORTS", Match! Premier
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/531/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_planeta.png" group-title="SPORTS", Match! Country
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/123/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS", RMC SPORT1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2545/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS", RMC SPORT2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2546/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS", RMC SPORT3
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2547/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="SPORTS", SKYSPORT 1
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2478/index.m3u8?@asfaiptv
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="SPORTS", SKYSPORT 2
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/2479/index.m3u8?@asfaiptv
-
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 1
+http://51.158.145.148:25461/test/test/31
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 01
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8?@asfaiptv
+#http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 2
+http://51.158.145.148:25461/test/test/33
+#EXTINF: -1 tvg-logo="https://imgur.com/BDP2HpT" group-title="SPORTS", Bein Sports 02
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8?@asfaiptv
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport3
+http://dx3.gcdn.co/BEINSPORTSES/index.m3u8?@asfaiptv
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport4
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8?@asfaiptv
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BeinSport5
+http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8?@asfaiptv
 
 #EXTINF:-1 group-title="EXTRA SPORTS" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1 (160)
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8?@asfaiptv
