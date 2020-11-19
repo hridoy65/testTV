@@ -1105,11 +1105,176 @@ https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist
 http://94.130.113.214:8000/dubtechno
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX", Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX", BBC FM 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX", BBC FM 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ATN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", AKASH AATH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Aljazeera HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", AXN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", BTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", BANGLA VISION
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Bflix MOVIE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", B4U MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", B4U MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", BBC EARTH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", BBC WORLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", CHANNEL I
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", CHANNEL 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", CHANNEL 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", COLORS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", CARTOON NETWORK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DEPTO BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DURONTO TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DD BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DISENY CARTOON
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DISCOVERY ENGLISH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DSPORTS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", DW
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", EKATTOR TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", EKUSHEY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ETC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", GAZI TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", GAAN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Hum Masala
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Hum Sitaray
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", History 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", INDEPENDENT TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", JALSHA MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Kolkata TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MAASRANGA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", NTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MUSIC MASTI
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MUSIC INDIA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MUSIC BOX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", MN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", NAGORIK TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", NICK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", NAT GEO WILD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", PTV Sports
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", RTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SATV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SOMOY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR JALSHA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY AATH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SANGEET BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR PLUS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR UTSAV MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY YAY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SETMAX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR GOLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY PIX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR SPORTS FIRST
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/55.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", STAR SPORTS 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY TEN 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY SIX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", SONY ESPN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", TLC HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", TRAVEL XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ZEE BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ZEE TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ZEE CINEMA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", ZING
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", &Flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", E24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", 9X JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="MIX ASFATV", 8XM
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GKQNQNp.png" group-title="FTP-Tv.ebox.live",jamuna tv
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
