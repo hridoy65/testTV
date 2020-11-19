@@ -69,7 +69,8 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FhyuTri.jpg" group-title="BANGLA", Falguni TV
 http://103.103.32.106:9981/stream/channelid/2078723227
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="BANGLA", GAZI TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+http://43.251.86.6:8080/hls/channel_1.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sfN1Gr2.png" group-title="BANGLA", INDEPENDENT TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8?@asfaiptv
@@ -139,7 +140,8 @@ http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8?@asfaiptv
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8?@asfaiptv
 #http://103.205.133.50/hls/chsj.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
+#http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #http://103.205.133.50/hls/zeebangla.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
