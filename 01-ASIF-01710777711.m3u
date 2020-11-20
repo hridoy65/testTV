@@ -200,27 +200,27 @@ http://enaniptv.com/magicbanglatv/1080/index.m3u8?@asfaiptv
 http://103.205.133.50/hls/sangeetbangla.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Hindi
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DWlfnN8.png" group-title="HINDI ENTERTAIN", Colors Hindi
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HgJ8VAh.png" group-title="HINDI ENTERTAIN", Colors Rishtey
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DWlfnN8.png" group-title="HINDI ENTERTAIN", Colors Rishtey
 http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/p7eks1U.jpg" group-title="HINDI ENTERTAIN", Star plus HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="HINDI ENTERTAIN", Star plus HD
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hVq49LX.png" group-title="HINDI ENTERTAIN", SONY
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b28tOEy.png" group-title="HINDI ENTERTAIN", SONY
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/p7eks1U.jpg" group-title="HINDI ENTERTAIN", Star Bharat
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QH8UAx7.png" group-title="HINDI ENTERTAIN", Star Bharat
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9yZFIAW.png" group-title="HINDI ENTERTAIN", SONY SAB
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="HINDI ENTERTAIN", SONY SAB
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9yZFIAW.png" group-title="HINDI ENTERTAIN", SONY Pal
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qhCvW6P.jpg" group-title="HINDI ENTERTAIN", SONY Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RLdDBZl.jpg" group-title="HINDI ENTERTAIN", Zee TV HD
 https://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD USA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RLdDBZl.jpg" group-title="HINDI ENTERTAIN", Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pNV63wq.jpg" group-title="HINDI ENTERTAIN", Zee TV HD Canada
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RLdDBZl.jpg" group-title="HINDI ENTERTAIN", Zee TV HD Canada
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fnmQ4qf.png" group-title="HINDI ENTERTAIN", &TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="HINDI ENTERTAIN", &TV
 http://103.205.133.50/hls/andtv.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/95A3VAe.jpg" group-title="HINDI MOVIE", SONY MAX
