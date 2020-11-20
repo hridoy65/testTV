@@ -132,6 +132,8 @@ http://72.139.72.18:1935/live/myStream/playlist.m3u8?@asfaiptv
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axK7mxm.jpg" group-title="BANGLA", KTV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QNZbRnZ.png" group-title="BANGLA", Magic Bangla IPTV
+http://enaniptv.com/magicbanglatv/1080/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5r2y53N.png" group-title="BANGLA", Notun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8OqDnDN.jpg" group-title="BANGLA", Probasi Bangla
@@ -139,64 +141,52 @@ http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cahkFa6.jpg" group-title="BANGLA", TBN 24
 http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/88EpCDb.jpg" group-title="INDIAN BANGLA", Star Jalsha
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg3mgZQ.jpg" group-title="INDIAN BANGLA", Star Jalsha
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/27.m3u8?@asfaiptv
 #http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8?@asfaiptv
 #http://103.205.133.50/hls/chsj.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3tPwWsL.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
+#http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8?@asfaiptv
 #http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8?@asfaiptv
 #http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #http://103.205.133.50/hls/zeebangla.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
+#EXTINF: -1 tvg-logo="https://i.imgur.com/71JVait.jpg" group-title="INDIAN BANGLA", Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #http://103.205.133.50/hls/sony8.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yirpj9I.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
+#http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uF7ChWS.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
 http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="INDIAN BANGLA", Artv Network
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Tre5viO.jpg" group-title="INDIAN BANGLA", Artv Network
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aia1ou3.jpg" group-title="INDIAN BANGLA", Jalsha Movies
 http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Bangla IPTV
+#http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rAomdug.png" group-title="INDIAN BANGLA", Bangla IPTV
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", DD Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ttd5522.jpg" group-title="INDIAN BANGLA", DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Enter 10 Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PAWuYPm.jpg" group-title="INDIAN BANGLA", Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Orange TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1q5LCsJ.png" group-title="INDIAN BANGLA", Orange TV
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Ruposhi Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Z0Qua5p.jpg" group-title="INDIAN BANGLA", Ruposhi Bangla
 https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", R Plus Gold
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FwqXQOn.jpg" group-title="INDIAN BANGLA", R Plus Gold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Tollywood
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", News Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5nWRey4.jpg" group-title="INDIAN BANGLA", News Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:hlscat.com
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/88EpCDb.jpg" group-title="INDIAN BANGLA", Star Jalsha
-http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla 3
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0e2fXKm.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
-http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
-http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lhCbUu2.jpg" group-title="BANGLA MUSIC", ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA MUSIC",Dhoom Music
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yovC4Uv.jpg" group-title="BANGLA MUSIC",Dhoom Music
 https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xlAHAck.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9A13q2Z.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
 http://103.205.133.50/hls/gaanbangla.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BANGLA MUSIC", Magic Bangla IPTV
-http://enaniptv.com/magicbanglatv/1080/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JyOAahO.png" group-title="BANGLA MUSIC", Sangeet Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uP8bj6R.png" group-title="BANGLA MUSIC", Sangeet Bangla
 http://103.205.133.50/hls/sangeetbangla.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
 
