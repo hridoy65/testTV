@@ -252,6 +252,7 @@ http://dx3.gcdn.co/hindi-SONYHD/index.m3u8?@asfaiptv
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="HINDI ENTERTAIN", SONY SAB
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8?@asfaiptv
+#http://62.210.82.206:25461/aVfhgpxPW1/j86QnUhtDD/34148?play_token=4eWiXAh12d&token=QhVcUhcJRggXUVFVAwNWBlMHBApRBFQHXFZRVl4GWgAAVQECVAUFBlBGGURBEkJRAFtpWgVEXlBRVQFZSkAXElxFa1oAQ14QA1IBUwNfEhhDQl9eBEReUlNUBFdVVFJQDhsWQw0FRggXVwRQC1USGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBRBgBDGhRQDhMKFxcdF1tEKyxDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVQNQCAdDSw==
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qhCvW6P.jpg" group-title="HINDI ENTERTAIN", SONY Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="HINDI ENTERTAIN", Star Life
@@ -402,12 +403,14 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8?@asfaiptv
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/16q8zol.png" group-title="INFOTAINMENT & LIFESTYLE", Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8?@asfaiptv
-XTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Network
+XTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Network 1
 http://5.135.92.133:52841/out/u/502_1.m3u8?@asfaiptv
+XTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Network 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FNhNZQL.jpg" group-title="INFOTAINMENT & LIFESTYLE", Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5qBjJQ3.png" group-title="INFOTAINMENT & LIFESTYLE",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vVRmojf.png" group-title="INFOTAINMENT & LIFESTYLE", History TV 18
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #https://watchindia.net:8443/live/81876/99874/791.m3u8?@asfaiptv
@@ -429,8 +432,11 @@ http://62.210.127.9:25461/p9JJJ9g9TY/f7HrN449rs/28752?token=QhVcUhcJRggXVwMAUFIH
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pzGnth7.jpg" group-title="INFOTAINMENT & LIFESTYLE", RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yl8OM9S.png" group-title="INFOTAINMENT & LIFESTYLE",Travel Channel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yl8OM9S.png" group-title="INFOTAINMENT & LIFESTYLE",Travel XP
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yl8OM9S.png" group-title="INFOTAINMENT & LIFESTYLE",Travel
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YMOM98h.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [HINDI-1]
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YMOM98h.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [HINDI-2]
@@ -882,8 +888,11 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?@asfaiptv
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIE", HBO
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
+#https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIE", HBO HD
 http://136.243.177.164/HBO/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", star movies select
