@@ -48,7 +48,7 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8LZimbu.jpg" group-title="BANGLA", CHANNEL 24
 http://master.beeiptv.com:8081/MB/channel24/playlist.m3u8?@asfaiptv
 #http://103.205.133.50/hls/channel24.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="BANGLA",Channel 52
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cvTGZOH.jpg" group-title="BANGLA",Channel 52
 http://str24.l9574.com/503.stream/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gNKxlgj.jpg" group-title="BANGLA", DBC NEWS
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8?@asfaiptv
@@ -126,13 +126,13 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cUHLJOQ.jpg" group-title="BANGLA", Doyal TV
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="BANGLA", Deshi TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EB24TDr.png" group-title="BANGLA", Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="BANGLA", Jhankar TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UEHDQn2.jpg" group-title="BANGLA", Jhankar TV
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axK7mxm.jpg" group-title="BANGLA", KTV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="BANGLA", Notun Somoy
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5r2y53N.png" group-title="BANGLA", Notun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8OqDnDN.jpg" group-title="BANGLA", Probasi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?@asfaiptv
@@ -393,15 +393,15 @@ https://streamitv.multitvsolution.in/idvo/tlceng.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VnL55wC.png" group-title="INFOTAINMENT & LIFESTYLE", TLC [ENGLISH]
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Akaram Kidz
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", ANIMAX
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yRIw2dr.jpg" group-title="KIDS-CARTOONS", ANIMAX
 http://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Baby First
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cgfmy8z.png" group-title="KIDS-CARTOONS", Cartoon Network
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", CBeebies
+#EXTINF: -1 tvg-logo="https://i.imgur.com/psqf7I6.png" group-title="KIDS-CARTOONS", CBeebies
 http://51.52.156.22:8888/http/003?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?@asfaiptv
