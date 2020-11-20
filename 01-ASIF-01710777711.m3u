@@ -403,43 +403,42 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8?
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/psqf7I6.png" group-title="KIDS-CARTOONS", CBeebies
 http://51.52.156.22:8888/http/003?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Discovery Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AUQH2xn.png" group-title="KIDS-CARTOONS", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logohttp://livedoomovie.com="https://i.imgur.com/omzrdYn.jpg" group-title="KIDS-CARTOONS", discovery kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?token=soheliptv01826655778
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", EBS Kids
+#https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?token=soheliptv01826655778
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?token=soheliptv01826655778
-EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", GEM Kids
+EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", GEM Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8?@asfaiptv
-EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Kabilion Tv
+EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Kabilion Tv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?@asfaiptv
-EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Lale
+EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Lale
 http://stream.atr.ua/lale//live/index.m3u8?@asfaiptv
-EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Locomotion Tv
+EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Locomotion Tv
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Majid TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Majid TV
 http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick Hindi
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick Hindi
 https://tivimateplaylists.live/nik50fps
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick jr
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OTfi4ZN.jpg" group-title="KIDS-CARTOONS", Nick jr
 https://tivimateplaylists.live/nikjr50fps
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TNPAnFs.png" group-title="KIDS-CARTOONS", Nick
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", POGO
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MWxQTMf.jpg" group-title="KIDS-CARTOONS", POGO
 https://tivimateplaylists.live/pog50fps
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", PBS Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", PBS Kids
 http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Rotana Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Rotana Kids
 http://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="KIDS-CARTOONS", Sony yay
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Shemaroo Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JLLdgz.png" group-title="KIDS-CARTOONS", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", SPACETOON KIDS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Tom & Jerry
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Tom & Jerry
 http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony yay (Telegu)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="KIDS-CARTOONS", Sony yay (Telegu)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", EGG Network
@@ -955,19 +954,19 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pb8rXpl.png" group-title="WORLD NEWS", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Peace TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NSooG67.png" group-title="RELIGIOUS", Peace TV
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Madani TV Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", IQ Islam
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", IQ Islam
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", The Islamic Network
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Shubhsandesh
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", Shubhsandesh
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", Ary Q tv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", Ary Q tv
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="RELIGIOUS", MTA 1 Urdu
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3JNAcYQ.png" group-title="RELIGIOUS", MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8?@asfaiptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX",## FM RADIO MIX ##
