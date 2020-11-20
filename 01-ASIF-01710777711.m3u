@@ -416,19 +416,19 @@ http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="KIDS-CARTOONS", Sony yay (Telegu)
 https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", EGG Network
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", EGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", ESTV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", ESTV
 https://estv-roku.amagi.tv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", ESR 24x7
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", ESR 24x7
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", IGN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", IGN
 https://ign-plex.amagi.tv/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", Mobcrush
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", Rooster Teeth TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="LIVE GAMING", VENN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pctCnHi.jpg" group-title="LIVE GAMING", VENN
 https://venntv-ono.amagi.tv/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", T Sports
