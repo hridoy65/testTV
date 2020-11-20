@@ -235,8 +235,7 @@ https://tivimateplaylists.live/sg250fps
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EJSlMZZ.jpg" group-title="HINDI MOVIE", Zee Action
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EJSlMZZ.jpg" group-title="HINDI MOVIE", ZEE ACTION
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8?@asfaiptv
+#http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BM4USPg.jpg" group-title="HINDI MOVIE", ZEE ANMOL
 http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AjVKCTh.jpg" group-title="HINDI MOVIE", SONY MAX 2
@@ -264,8 +263,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8?@asfa
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JT407Iz.png" group-title="HINDI MOVIE", B4U Kadak
 https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JT407Iz.png" group-title="HINDI MOVIE", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?@asfaiptv
+#http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yijvpU3.jpg" group-title="HINDI MOVIE", Colors Rishtey
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/b63RB1a.jpg" group-title="HINDI MOVIE", Abzy Movies
@@ -276,45 +274,37 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IlEfhzi.png" group-title="HINDI MOVIE", Cinema TV India
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", ACV Jukebox
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nW6xGSq.jpg" group-title="HINDI MUSIC", ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqQrQ74.jpg" group-title="HINDI MUSIC", B4U Plus
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c0n4Gz5.png" group-title="HINDI MUSIC", B4U Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Dil Se
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PdAbub2.png" group-title="HINDI MUSIC", Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Y5evpgu.jpg" group-title="HINDI MUSIC", Mastii
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rVBz5u9.jpg" group-title="HINDI MUSIC", Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", MTV India 1
-http://dx3.gcdn.co/hindi-MTVINDIA/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PXrhmnR.jpg" group-title="HINDI MUSIC", Mtv India 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", Pop
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OGyI1wM.jpg" group-title="HINDI MUSIC", Zing
-http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x tahsan
-https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?@asfaiptv
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Y5evpgu.jpg" group-title="HINDI MUSIC", Mastii Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OGyI1wM.jpg" group-title="HINDI MUSIC", Zing
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZAtOXro.jpg" group-title="HINDI MUSIC", 9xM
-https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OfiAOHU.png" group-title="HINDI MUSIC", 9x Jalwa
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FY6qqqT.jpg" group-title="HINDI MUSIC", Jalwa
 https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist.m3u8?@asfaiptv
+#https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cGJyTm8.jpg" group-title="HINDI MUSIC", Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/I0826de.jpg" group-title="HINDI MUSIC", Mastii
+https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?@asfaiptv
+#http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PSZNk2Q.jpg" group-title="HINDI MUSIC", Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SJTELbD.jpg" group-title="HINDI MUSIC", MTV India
+http://dx3.gcdn.co/hindi-MTVINDIA/index.m3u8?@asfaiptv
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K3J5YbY.png" group-title="HINDI MUSIC", Pop
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JMJ4AgN.jpg" group-title="HINDI MUSIC", Zing
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8?@asfaiptv
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iJeBaEV.png" group-title="HINDI MUSIC", 7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LbceoBV.jpg" group-title="HINDI MUSIC", 9XM
+https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8?@asfaiptv
+#https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5RruDg2.jpg" group-title="HINDI MUSIC", 9x tahsan
+https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZCCp9jp.jpg" group-title="INFOTAINMENT & LIFESTYLE", ANIMAL PLANET HD [HINDI]
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8?@asfaiptv
