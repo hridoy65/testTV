@@ -187,6 +187,7 @@ http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?@asfaiptv
 #http://103.205.133.50/hls/chsj.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3tPwWsL.jpg" group-title="INDIAN BANGLA", Zee Bangla HD
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@asfaiptv
+#https://wxca.cf/z/0-9-zeebangla/master.m3u8?signature=08881213920b70e9b8b6a685eb027d1c0c45f754&unique=c966bd997cfc76ae52255fbfe9521f04|User-Agent=Zee5
 #http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8?@asfaiptv
 #http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8?@asfaiptv
@@ -351,7 +352,7 @@ https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?@asfa
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nW6xGSq.jpg" group-title="HINDI MUSIC", ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/c0n4Gz5.png" group-title="HINDI MUSIC", B4U Plus
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PdAbub2.png" group-title="HINDI MUSIC", Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FY6qqqT.jpg" group-title="HINDI MUSIC", Jalwa
@@ -519,6 +520,7 @@ http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 #https://tivimateplaylists.live/starsportshindin
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
 http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8?@asfaiptv
+#https://tivimateplaylists.live/ss150fps
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 2
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8?@asfaiptv
@@ -549,8 +551,8 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8?@asfaiptv
 #http://dx3.gcdn.co/TENCRICKET/index.m3u8?@asfaiptv
 #http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?@asfaiptv
-#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", Ptv Sports
-
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", ASTROCRICKET
+http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", BEIN LALIGA HD
 http://185.71.64.167:80/7654321/1234567/79306?checkedby:hlscat.com
 #http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
@@ -605,7 +607,7 @@ http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103528
 http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103529
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN13.720p
 http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103530
-
+#https://tivimateplaylists.live/bein13-newn
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", Selcuk sports 1
 https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/54/naxi/caxi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", Selcuk sports 2
@@ -920,8 +922,10 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4iFkaFd.jpg" group-title="ENGLISH MOVIE", & Prive
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8?@asfaiptv
+#http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VFn2BUB.jpg" group-title="ENGLISH MOVIE", & Flix
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8?@asfaiptv
+#http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 1 Premiere
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?@asfaiptv
