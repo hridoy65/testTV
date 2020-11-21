@@ -283,8 +283,8 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?@asfaiptv
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XZ7c3TH.jpg" group-title="HINDI MOVIE", And Pictures HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8?@asfaiptv
-#https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8?@asfaiptv
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8?@asfaiptv
+#http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vtaTw3N.png" group-title="HINDI MOVIE", UTV Action
 https://watchindia.net:8443/live/81876/99874/805.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="HINDI MOVIE", Zee Cinema
