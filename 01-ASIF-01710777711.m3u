@@ -238,8 +238,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yovC4Uv.jpg" group-title="BANGLA MUSIC",Dhoom Music
 https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9A13q2Z.jpg" group-title="BANGLA MUSIC", GAAN BANGLA HD
-http://103.205.133.50/hls/gaanbangla.m3u8?@asfaiptv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8?@asfaiptv
+#http://103.205.133.50/hls/gaanbangla.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pRyogUs.png" group-title="BANGLA MUSIC", RTV Music
+https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uP8bj6R.png" group-title="BANGLA MUSIC", Sangeet Bangla
 http://103.205.133.50/hls/sangeetbangla.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/sangeetbangla/playlist.m3u8
@@ -293,7 +296,8 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8?@asfaiptv
 #https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8?@asfaiptv
 #http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vtaTw3N.png" group-title="HINDI MOVIE", UTV Action
-https://watchindia.net:8443/live/81876/99874/805.m3u8?@asfaiptv
+http://dx3.gcdn.co/hindi-UTVACTION/index.m3u8?@asfaiptv
+#https://watchindia.net:8443/live/81876/99874/805.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="HINDI MOVIE", Zee Cinema
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8?@asfaiptv
 #http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8?@asfaiptv
@@ -485,15 +489,18 @@ http://stream.atr.ua/lale//live/index.m3u8?@asfaiptv
 EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Locomotion Tv
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Majid TV
-http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick Hindi
 https://tivimateplaylists.live/nik50fps
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OTfi4ZN.jpg" group-title="KIDS-CARTOONS", Nick jr
-https://tivimateplaylists.live/nikjr50fps
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OTfi4ZN.jpg" group-title="KIDS-CARTOONS", Nick jr
+http://dx3.gcdn.co/kids-NICKJR/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OTfi4ZN.jpg" group-title="KIDS-CARTOONS", Nick jr 2
+https://tivimateplaylists.live/nikjr50fps
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MWxQTMf.jpg" group-title="KIDS-CARTOONS", POGO
-https://tivimateplaylists.live/pog50fps
+http://dx3.gcdn.co/kids-POGO/index.m3u8?@asfaiptv
+#https://tivimateplaylists.live/pog50fps
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", PBS Kids
 http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Rotana Kids
@@ -564,6 +571,8 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8?@asfaiptv
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8?@asfaiptv
 #http://dx3.gcdn.co/TENCRICKET/index.m3u8?@asfaiptv
 #http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BaOPKT9.jpg" group-title="SPORTS", Geo Super
+http://dx3.gcdn.co/GEOSUPER/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", ASTROCRICKET
 http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", BEIN LALIGA HD
