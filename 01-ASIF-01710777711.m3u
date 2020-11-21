@@ -73,7 +73,8 @@ http://163.172.29.246:8081/globalbd/dbc/chunks.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/dbcnews/playlist.m3u8?@asfaiptv
 #http://103.205.133.50/hls/dbcnews.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BkJOLE1.jpg" group-title="BANGLA", DEEPTO TV
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8?@asfaiptv
+http://103.135.208.14:8082/8/index.m3u8?token=21b39dc984c065b44f46a0e306379fe9f2be2a33-213052ff3f411d075f1da9d21bb2be82-1605949955-1605939155&remote=103.107.135.177
+#http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8?@asfaiptv
 #http://103.205.133.50/hls/deeptotv.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V8WekDt.jpg" group-title="BANGLA", Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8?@asfaiptv
@@ -125,7 +126,8 @@ http://163.172.29.246:8081/globalbd/news24/chunks.m3u8?@asfaiptv
 #http://103.205.133.50/hls/news24.m3u8?@asfaiptv
 #http://master.beeiptv.com:8081/MB/news24/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KxxP9DP.jpg" group-title="BANGLA", Nagorik TV
-http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8?@asfaiptv
+http://103.135.208.14:8082/59/index.m3u8?token=9502ee4204d90cb4b0f416f3ff330d165fb6c8b0-5f918bfa21e498d286d6f36ba7661e0e-1605949735-1605938935&remote=103.107.135.177
+#http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8?@asfaiptv
 #http://103.205.133.50/hls/nagorik.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PrFIRbG.jpg" group-title="BANGLA", NTV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
@@ -270,7 +272,8 @@ http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="HINDI ENTERTAIN", Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="HINDI ENTERTAIN", &TV
-http://103.205.133.50/hls/andtv.m3u8?@asfaiptv
+https://z5ams.akamaized.net/andtvhdusa/index.m3u8?hdnts=st=1605937931~exp=1605940931~acl=/*~hmac=cb3ee761eff500ac0eb8aa337416abb8e6de12d8b48f008400787700e30d3a72
+#http://103.205.133.50/hls/andtv.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="HINDI MOVIE", SONY MAX
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8?@asfaiptv
