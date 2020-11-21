@@ -562,51 +562,64 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?@asfaiptv
 #https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:hlscat.com
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN1.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/1
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103518
 #http://194.99.21.90/Beinsport1/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN2.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/2
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103519
 #http://194.99.21.90/Bein2/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN3.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/3
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103520
 #http://194.99.21.90/Bein3x/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN4.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/4
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103521
 #http://194.99.21.90/Bei4/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN5.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/5
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103522
 #http://194.99.21.90/Bein5/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN6.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/6
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103523
 #http://194.99.21.90/bein6/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN7.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/7
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103524
 #http://194.99.21.90/bein7/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN8.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/8
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103525
 #http://194.99.21.90/bein8/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN9.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/9
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103526
 #http://194.99.21.90/bein9/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN10.720p
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/10
+#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
 #http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103527
 #http://194.99.21.90/bein10/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN11.720p
-http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103528
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/11
+#http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103528
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN12.720p
-http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103529
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/12
+#http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103529
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS", beIN:beIN13.720p
-http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103530
+http://best-live-iptv.xyz:25461/BEST-LIVE2010/BEST-LIVE2010/13
+#http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/103530
 #https://tivimateplaylists.live/bein13-newn
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="SPORTS", Selcuk sports 1
 https://x.ppsiktibeniartik.xyz/kaynakstreamradarco/54/naxi/caxi.m3u8
@@ -912,6 +925,10 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="ENGLISH MOVIE", Star World
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="ENGLISH MOVIE", Star Movies
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1Vz3JaU.jpg" group-title="ENGLISH MOVIE", Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Cinemax
