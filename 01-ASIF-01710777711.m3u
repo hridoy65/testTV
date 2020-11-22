@@ -770,6 +770,17 @@ https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H0FuoNk.png" group-title="SPORTS",Fox Sport HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8?token=soheliptv01826655778
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN U
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN ACCN
+https://gma2.blab.email/acc.m3u8 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN sec
+https://gma2.blab.email/sec.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN FS2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN 2
+https://gma2.blab.email/espn2.m3u8?@asfaiptv
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="SPORTS",AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="SPORTS",AD Sports 2
@@ -797,8 +808,6 @@ http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="SPORTS", Dubai Race
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vCGgxji.jpg" group-title="SPORTS", ESPN 2
-https://gma2.blab.email/espn2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oj0Pv2e.png" group-title="SPORTS", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Rkx69ag.png" group-title="SPORTS", WWE Network
@@ -807,7 +816,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?@asfaiptv
 http://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H0FuoNk.png" group-title="SPORTS",Fox sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@asfaiptv
-
 
 #EXTINF:-1 group-title="EXTRA SPORTS" tvg-logo="https://i.imgur.com/QX4Qds6.png",Premier HD1 (160)
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8?@asfaiptv
@@ -915,6 +923,20 @@ https://stream.allsprk.tv/live/9/index.m3u8?@asfaiptv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", AXN
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 1 Premiere
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 4 Family
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Cinemax
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b3CSJk8.jpg" group-title="ENGLISH MOVIE", Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX MOVIES
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", FOX Life
@@ -926,30 +948,40 @@ http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIE", HBO HD
 http://136.243.177.164/HBO/playlist.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", star movies select
-http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tLvOejt.jpg" group-title="ENGLISH MOVIE", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MBC2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m6iH31O.jpg" group-title="ENGLISH MOVIE", MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CzlyNR0.jpg" group-title="ENGLISH MOVIE", MX
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Zee Cafe HD
-http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MY Cinema
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", OSN Movies
+http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", OSN MoviesFirst
+http://streamer1.furrera.ps:80/OSNMoviesFirst/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", OSN MoviesFirst2
+http://streamer1.furrera.ps:80/OSNMoviesFirst2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", OSN MoviesAction
+http://streamer1.furrera.ps:80/OSNMoviesAction/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", star movies select
+http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="ENGLISH MOVIE", Star World
-http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="ENGLISH MOVIE", Star Movies
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1Vz3JaU.jpg" group-title="ENGLISH MOVIE", Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Cinemax
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MBC2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="ENGLISH MOVIE", Star World
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE", Zee Cafe HD
+http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8?@asfaiptv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4iFkaFd.jpg" group-title="ENGLISH MOVIE", & Prive
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8?@asfaiptv
 #http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8?@asfaiptv
@@ -957,14 +989,138 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8?@asfaiptv
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8?@asfaiptv
 #http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8?@asfaiptv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 1 Premiere
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 4 Family
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8?@asfaiptv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O3xRi8e.png" group-title="ENGLISH MOVIE",beIN Movies 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65783
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65784
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65785
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65786
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65787
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65788
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 7
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65789
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 8
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65790
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 9
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65791
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 10
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65792
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ACTION 11
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65793
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action +
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65817
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65818
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action Top
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65819
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65820
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65821
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65822
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65823
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65824
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Action 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65825
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX S-FICTION 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65808
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX S-FICTION 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65809
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65826
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65827
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65828
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65829
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65830
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65831
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Horror 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65832
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65794
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65795
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65796
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65797
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65798
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65799
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 7
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65800
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX HORROR 8
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65801
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX DRAMA 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65813
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX DRAMA 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65814
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX DRAMA 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65815
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX DRAMA 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65816
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Drama
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65847
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Drama+
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65848
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65833
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65834
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65835
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65836
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65837
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65838
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Comedy 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65839
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX COMEDY 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65810
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX COMEDY 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65811
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX COMEDY 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65812
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65840
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65841
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65842
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65843
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65844
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65845
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",Netflix Kids 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65846
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 1
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65802
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 2
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65803
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 3
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65804
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 4
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65805
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 5
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65806
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lytiaRj.png" group-title="ENGLISH MOVIE",NETFLIX ANIME 6
+http://xsmp.xyz:80/xtremrev-9845/FHzcVTf9gw/65807
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AG7DDuJ.png" group-title="ENGLISH MUSIC", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?@asfaiptv
